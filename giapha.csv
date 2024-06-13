@@ -1,72 +1,72 @@
-ID,ID_ChaMe,ID_TenChaMe,Ho_ten,Nam_sinh,Gioi_tinh,Ngay_Sinh,Ngay_Mat,Noi_sinh,Noi_mat,Ten_Vo/Chong,Ten_Cha,Ten_Me,Doi_Thu,Nhanh,Ghi_chu
-N30001,N20001,Hồ Văn Thứa,Hồ Ngọc Anh,1898,Nam,,23/11/1970,"Nghĩa lộ, Tư nghĩa, Quảng ngãi",Gò Chàm,Nguyễn Thị Chín,Hồ Văn Thứa,,IX,III,"Xã trưởng Nhơn Phúc thời Ngô Đình Diệm, điền chủ"
-N30002,N30001,Hồ Ngọc Anh,Vô Danh,,,,,Nhơn Phúc,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,Ngày kỵ 10/11
-N30003,N30001,Hồ Ngọc Anh,Hồ Ngọc Diêu,,,,,Nhơn Phúc,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
-N30004,N30001,Hồ Ngọc Anh,Hồ Ngọc Cẩn,,,,,,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
-N30005,N30001,Hồ Ngọc Anh,Hồ Thị Hoanh,1927,Nữ,,19/9/1968,Nhơn Phúc,Gò Chàm,Nguyễn Duy Du,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
-N30006,N30001,Hồ Ngọc Anh,Hồ Thị Bảy,,Nữ,,,,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
-N30007,N30001,Hồ Ngọc Anh,Hồ Ngọc Trân,1931,Nam,,1968,Nhơn Phúc,Gò Chàm,Nguyễn Thị Duy Lương,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,Giáo viên PTCS
-N30008,N30001,Hồ Ngọc Anh,Hồ Ngọc Châu,1934,Nam,24/6/1934,,Nhơn Phúc,,Nguyễn Thị Bích,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,Cảnh sát Tư pháp tại Quy Nhơn thời Việt Nam Cộng Hòa
-N30009,N30001,Hồ Ngọc Anh,Hồ Thị Thí,1946,Nữ,,,Nhơn Phúc,,Quách Văn Ri,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
-N30010,N30001,Hồ Ngọc Anh,Hồ Canh,1930,,,,Nhơn Phúc,,Trịnh Thị Lê,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
-N30011,N30005,Hồ Thị Hoanh,Nguyễn Duy Lịch,1948,Nam,Mậu Tý,,Nhơn Khánh,,Nguyễn Thị Kỳ,Nguyễn Duy Du,Hồ Thị Hoanh,XI,III,"Làm ruộng, lập nghiệp tại Nhơn Phúc"
-N30012,N30005,Hồ Thị Hoanh,Nguyễn Thị Mỹ Nhung (Sự),,Nữ,,,Nhơn Phúc,,Phạm Xuân Thanh,Nguyễn Duy Du,Hồ Thị Hoanh,XI,III,Định cư tại Mỹ
-N30013,N30005,Hồ Thị Hoanh,Nguyễn Duy Thành (Tôn),1952,Nam,Nhâm Thìn,,Nhơn Phúc,,,Nguyễn Duy Du,Hồ Thị Hoanh,XI,III,
-N30014,N30005,Hồ Thị Hoanh,Nguyễn Duy HảI,,Nam,,,Nhơn Phúc,,,Nguyễn Duy Du,Hồ Thị Hoanh,XI,III,
-N30015,N30007,Hồ Ngọc Trân,Hồ Thị Liên Hoan (ThiệN),1950,Nữ,Canh Dần,,Nhơn Phúc,,Hoa Cảnh Quý,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Chuyên vào lập nghiệp tại Thị xã Đồng Xoài, Bình Phước"
-N30016,N30007,Hồ Ngọc Trân,Hồ Thị Như Ngọc,1953,Nữ,Quý Tỵ,,Nhơn Phúc,,,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Lập nghiệp tại Thủ Dầu Một, Bình Dương"
-N30017,N30007,Hồ Ngọc Trân,Hồ Thị Liên Hoa,1955,Nữ,Ất Mùi,,Nhơn Phúc,,Lê Quang Hoàng,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Di chuyển vào lập nghiệp tại Thủ Dầu Một, Bình Dương"
-N30018,N30007,Hồ Ngọc Trân,Hồ Thị Xuân Thủy,1959,Nữ,Kỷ Hợi,,Nhơn Phúc,,Phạm Hồng Thái,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Giáo viên trường PTCS Nhơn Phúc, chuyển vào lập nghiệp tại Thủ Dầu Một, Bình Dương"
-N30019,N30007,Hồ Ngọc Trân,Hồ Thị Huy Hồng,1961,Nữ,Tân Sửu,,Nhơn Phúc,,Phạm Văn Tòng,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,Lập nghiệp tại Thủ Dầu Một
-N30020,N30007,Hồ Ngọc Trân,Hồ Ngọc Bửu,1963,Nam,Quý Mão,,Nhơn Phúc,,Nguyễn Thị Song Lữ,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Nguyên Kế toán Nông trường Hà Tam (Đakpo), nguyên Giám đốc Cty TNHH Huy Hồng, hiện Giám đốc Cty TNHH Hồ Bửu"
-N30021,N30007,Hồ Ngọc Trân,Hồ Ngọc Chương,1965,Nam,Ất Tỵ,,Nhơn Phúc,,Nguyễn Thị Tuyết Hoa,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Nguyên Ban điều hành Cty TNHH Huy Hồng, lập nghiệp tại Thủ Dầu Một"
-N30022,N30007,Hồ Ngọc Trân,Hồ Thị Trang Dung,1968,Nữ,Mậu Thân,,Nhơn Phúc,,Lê Văn Phản,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,Giám đốc Xí nghiệp May Trang Dung tại Thủ Dầu Một
-N30023,N30008,Hồ Ngọc Châu,Hồ Ngọc Trực,1960,Nam,,6/2003,Nhơn Phúc,,Nguyễn Thị Mỹ Dung,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,
-N30024,N30008,Hồ Ngọc Châu,Hồ Thị Minh Công,1962,Nữ,Nhâm Dần,,Nhơn Phúc,,Huỳnh Hữu Tòa,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Buôn bán, lập nghiệp tại Tp Hồ Chí Minh, cư ngụ tại Q. Thủ Đức"
-N30025,N30008,Hồ Ngọc Châu,Hồ Văn Minh,1965,Nam,Ất Tỵ,,Nhơn Phúc,,Đôn Thị Tuyết Hải,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Giám đốc Cty Quy Long, lập nghiệp tại Đường 2, P.27, Q. Bình Thạnh"
-N30026,N30008,Hồ Ngọc Châu,Hồ Ngọc Trí,1967,Nam,Đinh Mùi,,Nhơn Phúc,,Huỳnh Thị Ánh Hồng,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Kinh doanh vận tải, lập nghiệp tại Bình Dương"
-N30027,N30008,Hồ Ngọc Châu,Hồ Ngọc Hùng,1968,Nam,Mậu Thân,,Nhơn Phúc,,Dương Hoàng Ngọc Hân,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Kế toán Bệnh viện Saigòn, lập nghiệp tại đường Dương Bá Trạc, Q.8, Tp Hồ Chí Minh"
-N30028,N30008,Hồ Ngọc Châu,Hồ Thị Mỹ Loan,1972,Nữ,Nhâm Tý,,Nhơn Phúc,,Lê Ảnh Kiệt,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Buôn bán, lập nghiệp tại P.24, Q. Bình Thạnh"
-N30029,N30008,Hồ Ngọc Châu,Hồ Ngọc Long,1977,Nam,Đinh Tỵ,,Qui Nhơn,,Đồ Thị Cẩm Lệ,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Công nhân, lập nghiệp tại P.27, Q. Bình Thạnh"
-N30030,N30009,Hồ Thị Thí,Quách Văn Khoa,1965,Nam,Nhâm Thìn,,Nhơn Phúc,,Lê Thị Trang Duyên,Quách Văn Ri,Hồ Thị Thí,XI,III,"Lập nghiệp tại Phú Phong, buôn bán hàng Điện-Điện tử"
-N30031,N30009,Hồ Thị Thí,Quách Thị Tuyết,1967,Nữ,Bính Ngọ,,Phủ Phong,,Nguyễn Diệp Dũng,Quách Văn Ri,Hồ Thị Thí,XI,III,"Lập nghiệp tại thị xã An Khê, buôn bán tạp hóa"
-N30032,N30009,Hồ Thị Thí,Quách Văn Dũng,1968,Nam,Mậu Thân,,Phú Phong,,Bùi Thị Kiển,Quách Văn Ri,Hồ Thị Thí,XI,III,"Lập nghiệp tại Phú Phong, buôn bán"
-N30033,N30009,Hồ Thị Thí,Quách Văn Tiến,1970,Nam,Canh Tuất,,,,,Quách Văn Ri,Hồ Thị Thí,XI,III,
-N30034,N30009,Hồ Thị Thí,Quách Thị Phượng,,Nữ,,,,,,Quách Văn Ri,Hồ Thị Thí,XI,III,
-N30035,N30009,Hồ Thị Thí,Quách Thị Kiều,,Nữ,,,,,,Quách Văn Ri,Hồ Thị Thí,XI,III,
-N30036,N30010,Hồ Canh,Hồ Công Thành,,Nam,,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
-N30037,N30010,Hồ Canh,Hồ Công Khanh,,Nam,,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
-N30038,N30010,Hồ Canh,Hồ Công Danh,,Nam,,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
-N30039,N30010,Hồ Canh,Hồ Thị Công Thư,,Nữ,,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
-N30040,N30010,Hồ Canh,Hồ Công Tuân,,Nam,,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
-N30041,N30010,Hồ Canh,Hồ Công Hùng,,Nam,,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
-N30042,N30010,Hồ Canh,Hồ Thị Công Nguyệt,,Nữ,,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
-N30043,N30010,Hồ Canh,Hồ Thị Công Thủy,,Nữ,,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
-N30050,N30015,Hồ Thị Liên Hoan (Thiện),Hoa Văn KhảI,,Nam,,,,,,Hoa Cảnh Quý,Hồ Thị Liên Hoan (Thiện),XII,III,
-N30051,N30015,Hồ Thị Liên Hoan (Thiện),Hoa Văn Định,,Nam,,,,,,Hoa Cảnh Quý,Hồ Thị Liên Hoan (Thiện),XII,III,
-N30052,N30015,Hồ Thị Liên Hoan (Thiện),Hoa Văn Thanh,,Nam,,,,,,Hoa Cảnh Quý,Hồ Thị Liên Hoan (Thiện),XII,III,
-N30053,N30016,Hồ Thị Như Ngọc,Hồ Ngọc Giác,1982,Nam,,,,,,,Hồ Thị Như Ngọc,XII,III,Xuất gia theo Phật giáo từ nhỏ
-N30054,N30017,Hồ Thị Liên Hoa,Lê Thị Thục Nhi,1974,Nữ,,,Nhơn Phúc,,,Lê Quang Hoàng,Hồ Thị Liên Hoa,XII,III,
-N30055,N30017,Hồ Thị Liên Hoa,Lê Thị Thục Như,1977,Nữ,,,Nhơn Phúc,,,Lê Quang Hoàng,Hồ Thị Liên Hoa,XII,III,Đại học Kinh tế
-N30056,N30018,Hồ Thị Xuân Thủy,Phạm Ái Quyên,1978,Nữ,,,Nhơn Phúc,,,Phạm Hồng Thái,Hồ Thị Xuân Thủy,XII,III,Đại học Kinh tế
-N30057,N30018,Hồ Thị Xuân Thủy,Phạm Hồng Thi,1983,,,,Nhơn Phúc,,,Phạm Hồng Thái,Hồ Thị Xuân Thủy,XII,III,THCN
-N30058,N30018,Hồ Thị Xuân Thủy,Phạm Hồng Thuận,1992,Nam,,,Nhơn Phúc,,,Phạm Hồng Thái,Hồ Thị Xuân Thủy,XII,III,Học sinh
-N30059,N30019,Hồ Thị Huy Hồng,Phạm Hữu Mai,1982,Nữ,,,Nhơn Phúc,,,Phạm Văn Tòng,Hồ Thị Huy Hồng,XII,III,"Tốt nghiệp Đại học tại Anh Quốc, Giám đốc Công ty TNHH Huy Hồng tại Thủ Dầu Một"
-N30060,N30019,Hồ Thị Huy Hồng,Phạm Nhất Tiên,1990,,,,Nhơn Phúc,,,Phạm Văn Tòng,Hồ Thị Huy Hồng,XII,III,Sinh viên du học
-N30061,N30020,Hồ Ngọc Bửu,Hồ Ngọc Tân,1989,Nam,,,Nhơn Phúc,,,Hồ Ngọc Bửu,Nguyễn Thị Song Lữ,XII,III,Sinh viên
-N30062,N30020,Hồ Ngọc Bửu,Hồ Ngọc Tấn,1993,Nam,,,Nhơn Phúc,,,Hồ Ngọc Bửu,Nguyễn Thị Song Lữ,XII,III,Du học
-N30063,N30021,Hồ Ngọc Chương,Hồ Thiên Phú,1991,Nam,,,Thủ Dầu Một,,,Hồ Ngọc Chương,Nguyễn Thị Tuyết Hoa,XII,III,Du học
-N30064,N30021,Hồ Ngọc Chương,Hồ Thanh Phong,1993,Nam,,,Thủ Dầu Một,,,Hồ Ngọc Chương,Nguyễn Thị Tuyết Hoa,XII,III,Du học
-N30065,N30022,Hồ Thị Trang Dung,Lê Hồ Huy Linh,,,,,,,,Lê Văn Phản,Hồ Thị Trang Dung,XII,III,
-N30066,N30022,Hồ Thị Trang Dung,Lê Hồ Huy Khánh,,,,,,,,Lê Văn Phản,Hồ Thị Trang Dung,XII,III,
-N30067,N30023,Hồ Ngọc Trực,Hồ Xuân Huỳnh,1996,,,,Tp Hồ Chí Minh,,,Hồ Ngọc Trực,Nguyễn Thị Mỹ Dung,XII,III,
-N30068,N30024,Hồ Thị Minh Công,Huỳnh Hữu Đức,1978,Nam,,,Qui Nhơn,,,Huỳnh Hữu Tòa,Hồ Thị Minh Công,XII,III,
-N30069,N30024,Hồ Thị Minh Công,Huỳnh Thị Thu Thảo,1979,Nữ,,,Qui Nhơn,,,Huỳnh Hữu Tòa,Hồ Thị Minh Công,XII,III,
-N30070,N30024,Hồ Thị Minh Công,Huỳnh Hữu Thành,1983,Nam,,,Qui Nhơn,,,Huỳnh Hữu Tòa,Hồ Thị Minh Công,XII,III,
-N30071,N30025,Hồ Văn Minh,Hồ Trọng Tín,1993,Nam,,,Tp Hồ Chí Minh,,,Hồ Văn Minh,Đôn Thị Tuyết HảI,XII,III,
-N30072,N30025,Hồ Văn Minh,Hồ Trọng Hiếu,1995,Nam,,,Tp Hồ Chí Minh,,,Hồ Văn Minh,Đôn Thị Tuyết HảI,XII,III,
-N30073,N30026,Hồ Ngọc Trí,Hồ Ngọc Phương Ngân,2001,Nữ,,,Bình Dương,,,Hồ Ngọc Trí,Huỳnh Thị Ánh Hồng,XII,III,
-N30074,N30027,Hồ Ngọc Hùng,Hồ Ngọc Thanh Hà,2005,Nữ,,,"Quận 8, Tp Hồ Chí Minh",,,Hồ Ngọc Hùng,Dương Hoàng Ngọc Hân,XII,III,
-N30075,N30028,Hồ Thị Mỹ Loan,Lê Hồ Huỳnh Như,2007,Nữ,,,Tp Hồ Chí Minh,,,Lê Ảnh Kiệt,Hồ Thị Mỹ Loan,XII,III,
-N30076,N30029,Hồ Ngọc Long,Hồ Hoàng Khải,2008,Nam,,,Tp Hồ Chí Minh,,,Hồ Ngọc Long,Đồ Thị CẩM Lệ,XII,III,
-N30077,N30029,Hồ Ngọc Long,Hồ Hoàng Diệp,2009,,,,Tp Hồ Chí Minh,,,Hồ Ngọc Long,Đồ Thị CẩM Lệ,XII,III,
+id,parentId,name,position,Nam_sinh,Gioi_tinh,Ngay_Sinh,Ngay_Mat,Noi_sinh,Noi_mat,Ten_Cha,Ten_Me,Doi_Thu,Nhanh,Ghi_chu
+N30001,N20001,Hồ Ngọc Anh,Nguyễn Thị Chín,1898,Nam,,23/11/1970,"Nghĩa lộ, Tư nghĩa, Quảng ngãi",Gò Chàm,Hồ Văn Thứa,,IX,III,"Xã trưởng Nhơn Phúc thời Ngô Đình Diệm, điền chủ"
+N30002,N30001,Vô Danh,,,,,,Nhơn Phúc,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,Ngày kỵ 10/11
+N30003,N30001,Hồ Ngọc Diêu,,,,,,Nhơn Phúc,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
+N30004,N30001,Hồ Ngọc Cẩn,,,,,,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
+N30005,N30001,Hồ Thị Hoanh,Nguyễn Duy Du,1927,Nữ,,19/9/1968,Nhơn Phúc,Gò Chàm,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
+N30006,N30001,Hồ Thị Bảy,,,Nữ,,,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
+N30007,N30001,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,1931,Nam,,1968,Nhơn Phúc,Gò Chàm,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,Giáo viên PTCS
+N30008,N30001,Hồ Ngọc Châu,Nguyễn Thị Bích,1934,Nam,24/6/1934,,Nhơn Phúc,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,Cảnh sát Tư pháp tại Quy Nhơn thời Việt Nam Cộng Hòa
+N30009,N30001,Hồ Thị Thí,Quách Văn Ri,1946,Nữ,,,Nhơn Phúc,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
+N30010,N30001,Hồ Canh,Trịnh Thị Lê,1930,,,,Nhơn Phúc,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
+N30011,N30005,Nguyễn Duy Lịch,Nguyễn Thị Kỳ,1948,Nam,Mậu Tý,,Nhơn Khánh,,Nguyễn Duy Du,Hồ Thị Hoanh,XI,III,"Làm ruộng, lập nghiệp tại Nhơn Phúc"
+N30012,N30005,Nguyễn Thị Mỹ Nhung (Sự),Phạm Xuân Thanh,,Nữ,,,Nhơn Phúc,,Nguyễn Duy Du,Hồ Thị Hoanh,XI,III,Định cư tại Mỹ
+N30013,N30005,Nguyễn Duy Thành (Tôn),,1952,Nam,Nhâm Thìn,,Nhơn Phúc,,Nguyễn Duy Du,Hồ Thị Hoanh,XI,III,
+N30014,N30005,Nguyễn Duy HảI,,,Nam,,,Nhơn Phúc,,Nguyễn Duy Du,Hồ Thị Hoanh,XI,III,
+N30015,N30007,Hồ Thị Liên Hoan (ThiệN),Hoa Cảnh Quý,1950,Nữ,Canh Dần,,Nhơn Phúc,,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Chuyên vào lập nghiệp tại Thị xã Đồng Xoài, Bình Phước"
+N30016,N30007,Hồ Thị Như Ngọc,,1953,Nữ,Quý Tỵ,,Nhơn Phúc,,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Lập nghiệp tại Thủ Dầu Một, Bình Dương"
+N30017,N30007,Hồ Thị Liên Hoa,Lê Quang Hoàng,1955,Nữ,Ất Mùi,,Nhơn Phúc,,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Di chuyển vào lập nghiệp tại Thủ Dầu Một, Bình Dương"
+N30018,N30007,Hồ Thị Xuân Thủy,Phạm Hồng Thái,1959,Nữ,Kỷ Hợi,,Nhơn Phúc,,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Giáo viên trường PTCS Nhơn Phúc, chuyển vào lập nghiệp tại Thủ Dầu Một, Bình Dương"
+N30019,N30007,Hồ Thị Huy Hồng,Phạm Văn Tòng,1961,Nữ,Tân Sửu,,Nhơn Phúc,,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,Lập nghiệp tại Thủ Dầu Một
+N30020,N30007,Hồ Ngọc Bửu,Nguyễn Thị Song Lữ,1963,Nam,Quý Mão,,Nhơn Phúc,,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Nguyên Kế toán Nông trường Hà Tam (Đakpo), nguyên Giám đốc Cty TNHH Huy Hồng, hiện Giám đốc Cty TNHH Hồ Bửu"
+N30021,N30007,Hồ Ngọc Chương,Nguyễn Thị Tuyết Hoa,1965,Nam,Ất Tỵ,,Nhơn Phúc,,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,"Nguyên Ban điều hành Cty TNHH Huy Hồng, lập nghiệp tại Thủ Dầu Một"
+N30022,N30007,Hồ Thị Trang Dung,Lê Văn Phản,1968,Nữ,Mậu Thân,,Nhơn Phúc,,Hồ Ngọc Trân,Nguyễn Thị Duy Lương,XI,III,Giám đốc Xí nghiệp May Trang Dung tại Thủ Dầu Một
+N30023,N30008,Hồ Ngọc Trực,Nguyễn Thị Mỹ Dung,1960,Nam,,6/2003,Nhơn Phúc,,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,
+N30024,N30008,Hồ Thị Minh Công,Huỳnh Hữu Tòa,1962,Nữ,Nhâm Dần,,Nhơn Phúc,,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Buôn bán, lập nghiệp tại Tp Hồ Chí Minh, cư ngụ tại Q. Thủ Đức"
+N30025,N30008,Hồ Văn Minh,Đôn Thị Tuyết Hải,1965,Nam,Ất Tỵ,,Nhơn Phúc,,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Giám đốc Cty Quy Long, lập nghiệp tại Đường 2, P.27, Q. Bình Thạnh"
+N30026,N30008,Hồ Ngọc Trí,Huỳnh Thị Ánh Hồng,1967,Nam,Đinh Mùi,,Nhơn Phúc,,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Kinh doanh vận tải, lập nghiệp tại Bình Dương"
+N30027,N30008,Hồ Ngọc Hùng,Dương Hoàng Ngọc Hân,1968,Nam,Mậu Thân,,Nhơn Phúc,,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Kế toán Bệnh viện Saigòn, lập nghiệp tại đường Dương Bá Trạc, Q.8, Tp Hồ Chí Minh"
+N30028,N30008,Hồ Thị Mỹ Loan,Lê Ảnh Kiệt,1972,Nữ,Nhâm Tý,,Nhơn Phúc,,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Buôn bán, lập nghiệp tại P.24, Q. Bình Thạnh"
+N30029,N30008,Hồ Ngọc Long,Đồ Thị Cẩm Lệ,1977,Nam,Đinh Tỵ,,Qui Nhơn,,Hồ Ngọc Châu,Nguyễn Thị Bích,XI,III,"Công nhân, lập nghiệp tại P.27, Q. Bình Thạnh"
+N30030,N30009,Quách Văn Khoa,Lê Thị Trang Duyên,1965,Nam,Nhâm Thìn,,Nhơn Phúc,,Quách Văn Ri,Hồ Thị Thí,XI,III,"Lập nghiệp tại Phú Phong, buôn bán hàng Điện-Điện tử"
+N30031,N30009,Quách Thị Tuyết,Nguyễn Diệp Dũng,1967,Nữ,Bính Ngọ,,Phủ Phong,,Quách Văn Ri,Hồ Thị Thí,XI,III,"Lập nghiệp tại thị xã An Khê, buôn bán tạp hóa"
+N30032,N30009,Quách Văn Dũng,Bùi Thị Kiển,1968,Nam,Mậu Thân,,Phú Phong,,Quách Văn Ri,Hồ Thị Thí,XI,III,"Lập nghiệp tại Phú Phong, buôn bán"
+N30033,N30009,Quách Văn Tiến,,1970,Nam,Canh Tuất,,,,Quách Văn Ri,Hồ Thị Thí,XI,III,
+N30034,N30009,Quách Thị Phượng,,,Nữ,,,,,Quách Văn Ri,Hồ Thị Thí,XI,III,
+N30035,N30009,Quách Thị Kiều,,,Nữ,,,,,Quách Văn Ri,Hồ Thị Thí,XI,III,
+N30036,N30010,Hồ Công Thành,,,Nam,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
+N30037,N30010,Hồ Công Khanh,,,Nam,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
+N30038,N30010,Hồ Công Danh,,,Nam,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
+N30039,N30010,Hồ Thị Công Thư,,,Nữ,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
+N30040,N30010,Hồ Công Tuân,,,Nam,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
+N30041,N30010,Hồ Công Hùng,,,Nam,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
+N30042,N30010,Hồ Thị Công Nguyệt,,,Nữ,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
+N30043,N30010,Hồ Thị Công Thủy,,,Nữ,,,,,Hồ Canh,Trịnh Thị Lê,XI,III,
+N30050,N30015,Hoa Văn KhảI,,,Nam,,,,,Hoa Cảnh Quý,Hồ Thị Liên Hoan (Thiện),XII,III,
+N30051,N30015,Hoa Văn Định,,,Nam,,,,,Hoa Cảnh Quý,Hồ Thị Liên Hoan (Thiện),XII,III,
+N30052,N30015,Hoa Văn Thanh,,,Nam,,,,,Hoa Cảnh Quý,Hồ Thị Liên Hoan (Thiện),XII,III,
+N30053,N30016,Hồ Ngọc Giác,,1982,Nam,,,,,,Hồ Thị Như Ngọc,XII,III,Xuất gia theo Phật giáo từ nhỏ
+N30054,N30017,Lê Thị Thục Nhi,,1974,Nữ,,,Nhơn Phúc,,Lê Quang Hoàng,Hồ Thị Liên Hoa,XII,III,
+N30055,N30017,Lê Thị Thục Như,,1977,Nữ,,,Nhơn Phúc,,Lê Quang Hoàng,Hồ Thị Liên Hoa,XII,III,Đại học Kinh tế
+N30056,N30018,Phạm Ái Quyên,,1978,Nữ,,,Nhơn Phúc,,Phạm Hồng Thái,Hồ Thị Xuân Thủy,XII,III,Đại học Kinh tế
+N30057,N30018,Phạm Hồng Thi,,1983,,,,Nhơn Phúc,,Phạm Hồng Thái,Hồ Thị Xuân Thủy,XII,III,THCN
+N30058,N30018,Phạm Hồng Thuận,,1992,Nam,,,Nhơn Phúc,,Phạm Hồng Thái,Hồ Thị Xuân Thủy,XII,III,Học sinh
+N30059,N30019,Phạm Hữu Mai,,1982,Nữ,,,Nhơn Phúc,,Phạm Văn Tòng,Hồ Thị Huy Hồng,XII,III,"Tốt nghiệp Đại học tại Anh Quốc, Giám đốc Công ty TNHH Huy Hồng tại Thủ Dầu Một"
+N30060,N30019,Phạm Nhất Tiên,,1990,,,,Nhơn Phúc,,Phạm Văn Tòng,Hồ Thị Huy Hồng,XII,III,Sinh viên du học
+N30061,N30020,Hồ Ngọc Tân,,1989,Nam,,,Nhơn Phúc,,Hồ Ngọc Bửu,Nguyễn Thị Song Lữ,XII,III,Sinh viên
+N30062,N30020,Hồ Ngọc Tấn,,1993,Nam,,,Nhơn Phúc,,Hồ Ngọc Bửu,Nguyễn Thị Song Lữ,XII,III,Du học
+N30063,N30021,Hồ Thiên Phú,,1991,Nam,,,Thủ Dầu Một,,Hồ Ngọc Chương,Nguyễn Thị Tuyết Hoa,XII,III,Du học
+N30064,N30021,Hồ Thanh Phong,,1993,Nam,,,Thủ Dầu Một,,Hồ Ngọc Chương,Nguyễn Thị Tuyết Hoa,XII,III,Du học
+N30065,N30022,Lê Hồ Huy Linh,,,,,,,,Lê Văn Phản,Hồ Thị Trang Dung,XII,III,
+N30066,N30022,Lê Hồ Huy Khánh,,,,,,,,Lê Văn Phản,Hồ Thị Trang Dung,XII,III,
+N30067,N30023,Hồ Xuân Huỳnh,,1996,,,,Tp Hồ Chí Minh,,Hồ Ngọc Trực,Nguyễn Thị Mỹ Dung,XII,III,
+N30068,N30024,Huỳnh Hữu Đức,,1978,Nam,,,Qui Nhơn,,Huỳnh Hữu Tòa,Hồ Thị Minh Công,XII,III,
+N30069,N30024,Huỳnh Thị Thu Thảo,,1979,Nữ,,,Qui Nhơn,,Huỳnh Hữu Tòa,Hồ Thị Minh Công,XII,III,
+N30070,N30024,Huỳnh Hữu Thành,,1983,Nam,,,Qui Nhơn,,Huỳnh Hữu Tòa,Hồ Thị Minh Công,XII,III,
+N30071,N30025,Hồ Trọng Tín,,1993,Nam,,,Tp Hồ Chí Minh,,Hồ Văn Minh,Đôn Thị Tuyết HảI,XII,III,
+N30072,N30025,Hồ Trọng Hiếu,,1995,Nam,,,Tp Hồ Chí Minh,,Hồ Văn Minh,Đôn Thị Tuyết HảI,XII,III,
+N30073,N30026,Hồ Ngọc Phương Ngân,,2001,Nữ,,,Bình Dương,,Hồ Ngọc Trí,Huỳnh Thị Ánh Hồng,XII,III,
+N30074,N30027,Hồ Ngọc Thanh Hà,,2005,Nữ,,,"Quận 8, Tp Hồ Chí Minh",,Hồ Ngọc Hùng,Dương Hoàng Ngọc Hân,XII,III,
+N30075,N30028,Lê Hồ Huỳnh Như,,2007,Nữ,,,Tp Hồ Chí Minh,,Lê Ảnh Kiệt,Hồ Thị Mỹ Loan,XII,III,
+N30076,N30029,Hồ Hoàng Khải,,2008,Nam,,,Tp Hồ Chí Minh,,Hồ Ngọc Long,Đồ Thị CẩM Lệ,XII,III,
+N30077,N30029,Hồ Hoàng Diệp,,2009,,,,Tp Hồ Chí Minh,,Hồ Ngọc Long,Đồ Thị CẩM Lệ,XII,III,
