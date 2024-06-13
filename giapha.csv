@@ -1,5 +1,5 @@
 id,parentId,name,position,Nam_sinh,Gioi_tinh,Ngay_Sinh,Ngay_Mat,Noi_sinh,Noi_mat,Ten_Cha,Ten_Me,Doi_Thu,Nhanh,Ghi_chu
-N30001,N20001,Hồ Ngọc Anh,Nguyễn Thị Chín,1898,Nam,,23/11/1970,"Nghĩa lộ, Tư nghĩa, Quảng ngãi",Gò Chàm,Hồ Văn Thứa,,IX,III,"Xã trưởng Nhơn Phúc thời Ngô Đình Diệm, điền chủ"
+N30001,,Hồ Ngọc Anh,Nguyễn Thị Chín,1898,Nam,,23/11/1970,"Nghĩa lộ, Tư nghĩa, Quảng ngãi",Gò Chàm,Hồ Văn Thứa,,IX,III,"Xã trưởng Nhơn Phúc thời Ngô Đình Diệm, điền chủ"
 N30002,N30001,Vô Danh,,,,,,Nhơn Phúc,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,Ngày kỵ 10/11
 N30003,N30001,Hồ Ngọc Diêu,,,,,,Nhơn Phúc,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
 N30004,N30001,Hồ Ngọc Cẩn,,,,,,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,III,
