@@ -1,5 +1,5 @@
-id,parentId,name,position,Nam_sinh,Gioi_tinh,Ngay_Sinh,Ngay_Mat,Noi_sinh,Noi_mat,Ten_Vo/Chong,Ten_Cha,Ten_Me,Doi_Thu,Nhanh,Ghi_chu
-H00001,,Hồ Văn Thừa,Hồ Ngọc Anh,1898,Nam,,23/11/1970,"Nghĩa lộ, Tư nghĩa, Quảng ngãi",Gò Chàm,Nguyễn Thị Chín,Hồ Văn Thừa,,IX,Chi nhánh III Hồ Ngọc Anh,"Xã trưởng Nhơn Phúc thời Ngô Đình Diệm, điền chủ"
+id,parentId,ID_TenChaMe,name,Nam_sinh,Gioi_tinh,Ngay_Sinh,Ngay_Mat,Noi_sinh,Noi_mat,Ten_Vo/Chong,Ten_Cha,Ten_Me,Doi_Thu,Nhanh,Ghi_chu
+H00001,H00299,Hồ Văn Thừa,Hồ Ngọc Anh,1898,Nam,,23/11/1970,"Nghĩa lộ, Tư nghĩa, Quảng ngãi",Gò Chàm,Nguyễn Thị Chín,Hồ Văn Thừa,,IX,Chi nhánh III Hồ Ngọc Anh,"Xã trưởng Nhơn Phúc thời Ngô Đình Diệm, điền chủ"
 H00002,H00001,Hồ Ngọc Anh,Vô Danh,,,,,Nhơn Phúc,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,Chi nhánh III Hồ Ngọc Anh,Ngày kỵ 10/11
 H00003,H00001,Hồ Ngọc Anh,Hồ Ngọc Diêu,,,,,Nhơn Phúc,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,Chi nhánh III Hồ Ngọc Anh,
 H00004,H00001,Hồ Ngọc Anh,Hồ Ngọc Cẩn,,,,,,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,Chi nhánh III Hồ Ngọc Anh,
@@ -70,3 +70,633 @@ H00068,H00027,Hồ Ngọc Hùng,Hồ Ngọc Thanh Hà,2005,Nữ,,,"Quận 8, Tp 
 H00069,H00028,Hồ Thị Mỹ Loan,Lê Hồ Huỳnh Như,2007,Nữ,,,Tp Hồ Chí Minh,,,Lê Ảnh Kiệt,Hồ Thị Mỹ Loan,XII,Chi nhánh III Hồ Ngọc Anh,
 H00070,H00029,Hồ Ngọc Long,Hồ Hoàng Khải,2008,Nam,,,Tp Hồ Chí Minh,,,Hồ Ngọc Long,Đồ Thị CẩM Lệ,XII,Chi nhánh III Hồ Ngọc Anh,
 H00071,H00029,Hồ Ngọc Long,Hồ Hoàng Diệp,2009,,,,Tp Hồ Chí Minh,,,Hồ Ngọc Long,Đồ Thị CẩM Lệ,XII,Chi nhánh III Hồ Ngọc Anh,
+H00072,,,Hồ Văn Thái,,Nam,,,,,,,,I,,
+H00073,H00072,Hồ Văn Thái,Hồ Văn Đông,,Nam,,,,,Phạm Thị Yên,Hồ Văn Thái,,II,,
+H00074,H00072,Hồ Văn Thái,Hồ Văn Sắc,,Nam,,,,,,Hồ Văn Thái,,II,,
+H00075,H00072,Hồ Văn Thái,Hồ Văn Quý,,Nam,,,,,,Hồ Văn Thái,,II,,
+H00076,H00073,Hồ Văn Đông,Hồ Văn Thuận,,Nam,,,,,Lê Thị Yến,Hồ Văn Đông,Phạm Thị Yên,III,,
+H00077,H00076,Hồ Văn Thuận,Hồ Văn Nghiền,,Nam,,,,,Nguyễn Thị Nguyên,Hồ Văn Thuận,Lê Thị Yến,IV,,
+H00078,H00076,Hồ Văn Thuận,Hồ Văn Mao,,Nam,,,,,Hoàng Thị Trảo,Hồ Văn Thuận,Lê Thị Yến,IV,,
+H00079,H00076,Hồ Văn Thuận,Hồ Văn Thức,,Nam,,,,,Lê Thị Lài,Hồ Văn Thuận,Lê Thị Yến,IV,,
+H00080,H00076,Hồ Văn Thuận,Hồ Văn Lâm,,Nam,,,,,,Hồ Văn Thuận,Lê Thị Yến,IV,,
+H00081,H00076,Hồ Văn Thuận,Hồ Văn Lai,,Nam,,,,,,Hồ Văn Thuận,Lê Thị Yến,IV,,
+H00082,H00076,Hồ Văn Thuận,Hồ Văn Trê,,Nam,,,,,,Hồ Văn Thuận,Lê Thị Yến,IV,,
+H00083,H00076,Hồ Văn Thuận,Hồ Văn Đạo,,Nam,,,,,Tạ Thị Thanh,Hồ Văn Thuận,Lê Thị Yến,IV,,
+H00084,H00076,Hồ Văn Thuận,Hồ Văn Thông,,Nam,,,,,,Hồ Văn Thuận,Lê Thị Yến,IV,,
+H00085,H00076,Hồ Văn Thuận,Hồ Văn Chức,,Nam,,,,,,Hồ Văn Thuận,Lê Thị Yến,IV,,
+H00086,H00076,Hồ Văn Thuận,Hồ Văn Bề,,Nam,,,,,,Hồ Văn Thuận,Lê Thị Yến,IV,,
+H00087,H00076,Hồ Văn Thuận,Hồ Văn Sạn,,Nam,,,,,,Hồ Văn Thuận,Lê Thị Yến,IV,,
+H00088,H00077,Hồ Văn Nghiền,Hồ Văn Toàn,,Nam,,,,,,Hồ Văn Nghiền,Nguyễn Thị Nguyên,V,,
+H00089,H00077,Hồ Văn Nghiền,Hồ Văn Biện,,Nam,,,,,Đoàn Thị Văn,Hồ Văn Nghiền,Nguyễn Thị Nguyên,V,,
+H00090,H00077,Hồ Văn Nghiền,Hồ Văn Giám,,Nam,,,,,Lê Thị Dùi,Hồ Văn Nghiền,Nguyễn Thị Nguyên,V,,"Tức Tuyển, ở xã Chánh Mông (nay là Chánh Lộ), vợ là Lê thị Dùi (Bùi thị Chùy hiệu là Trinh Thuận)"
+H00091,H00077,Hồ Văn Nghiền,Hồ Văn Lễ,,Nam,,,,,,Hồ Văn Nghiền,Nguyễn Thị Nguyên,V,,
+H00092,H00077,Hồ Văn Nghiền,Hồ Văn Căn,,Nam,,,,,Tạ Thị Nhàn,Hồ Văn Nghiền,Nguyễn Thị Nguyên,V,,
+H00093,H00077,Hồ Văn Nghiền,Hồ Văn Triết,,Nam,,,,,,Hồ Văn Nghiền,Nguyễn Thị Nguyên,V,,Có thể là cha của Hồ Tuyết
+H00094,H00077,Hồ Văn Nghiền,Hồ Văn Mưu,,Nam,,,,,,Hồ Văn Nghiền,Nguyễn Thị Nguyên,V,,
+H00095,H00077,Hồ Văn Nghiền,Hồ Văn Tín,,Nam,,,,,Trần Thị Giảng,Hồ Văn Nghiền,Nguyễn Thị Nguyên,V,,
+H00096,H00090,Hồ Văn Giám,Hồ Văn Giáo,,Nam,,,,,"Trần Thị Thuần, Nguyễn Thị Hồ, Trần Thị Nhiệm, Phan Thị Thạo",Hồ Văn Giám,Lê Thị Dùi,VI,,"Hồ văn Tuyển thụy là Mẫn trực) vợ Trần thị Thuần, Nguyễn thị Hồ ngày kỵ 6/2, Trần thị Nhiệm, Phan thị Thạo"
+H00097,H00090,Hồ Văn Giám,Hồ Văn Kính,,Nam,,,,,"Trần Thị Nguyệt, Trần Thị Lộc, Trần Thị Ân, Trần Thị Viêm",Hồ Văn Giám,Lê Thị Dùi,VI,,
+H00098,H00090,Hồ Văn Giám,Hồ Văn Đào,,Nam,,,,,,Hồ Văn Giám,Lê Thị Dùi,VI,,
+H00099,H00096,Hồ Văn Giáo,Hồ Văn Hỷ (Dữ),,Nam,,,,,,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,
+H00100,H00096,Hồ Văn Giáo,Hồ Văn Trứ,,Nam,,,,,Bùi Thị Sử,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,"Ông Khảo, thụy là Chất trực"
+H00101,H00096,Hồ Văn Giáo,Hồ Văn Nam,,Nam,,,,,,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,
+H00102,H00096,Hồ Văn Giáo,Hồ Văn Tôn,,Nam,,,,,,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,
+H00103,H00096,Hồ Văn Giáo,Hồ Văn Hiệu ,,Nam,,05-01-2024,,,Ngô Thị Thẩm,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,(Tạo)
+H00104,H00096,Hồ Văn Giáo,Hồ Văn Sổ,,Nam,,,,,,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,
+H00105,H00096,Hồ Văn Giáo,Hồ Văn Đôn,,Nam,,,,,,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,
+H00106,H00096,Hồ Văn Giáo,Hồ Thị Hôn,,Nữ,,,,,Trần Học Ý,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,Bà Huấn
+H00107,H00096,Hồ Văn Giáo,Hồ Thị Nhữ,,Nữ,,,,,,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,Bà Bảy
+H00108,H00096,Hồ Văn Giáo,Hồ Thị Tu,,Nữ,,,,,,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,Giữ chức quản bạ
+H00109,H00096,Hồ Văn Giáo,Hồ Thị Tình,,Nữ,,,,,,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,Tư Huých
+H00110,H00096,Hồ Văn Giáo,Hồ Thị Tề,,Nữ,,,,,,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,Dưỡng
+H00111,H00096,Hồ Văn Giáo,Hồ Thị Bằng,,Nữ,,,,,,Hồ Văn Giáo,Trần Thị Thuần,VII,Hồ Văn Giáo,Bà Biền
+H00112,H00100,Hồ Văn Trứ,Hồ Văn Khuôn,,Nam,,,,,Bùi Thị Sử,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,"Chánh điển, tự Hồ Liên"
+H00113,H00100,Hồ Văn Trứ,Hồ Văn Điện,,Nam,,,,,,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,Hồ Văn Doãn
+H00114,H00100,Hồ Văn Trứ,Hồ Văn Thi,,Nam,,,,,Nguyễn Thị Tự,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,Hồ Nga
+H00115,H00100,Hồ Văn Trứ,Hồ Văn Bình,,Nam,,,,,,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,Hiệp Sáu
+H00116,H00100,Hồ Văn Trứ,Hồ Văn Lữ,,Nam,,,,,,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,Dịch
+H00117,H00100,Hồ Văn Trứ,Hồ Văn Vàng,,Nam,,,,,,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,Ông Yến
+H00118,H00100,Hồ Văn Trứ,Hồ Văn Chỏng,,Nam,,,,,,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,Hồ Văn Chưởng
+H00119,H00100,Hồ Văn Trứ,Hồ Văn Con,,Nữ,,,,,,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,
+H00120,H00100,Hồ Văn Trứ,Hồ Thị Tàu,,Nữ,,,,,,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,
+H00121,H00100,Hồ Văn Trứ,Hồ Văn Đẩu,,Nam,,,,,,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,
+H00122,H00100,Hồ Văn Trứ,Hồ Thị Con,,Nữ,,,,,,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,
+H00123,H00100,Hồ Văn Trứ,Hồ Văn Bính,,Nam,,25-01-1905,,,Nguyễn Thị Điển,Hồ Văn Trứ,Bùi Thị Lạc,VIII,Hồ Văn Giáo,"Ông Sính, Có thể là Hồ Văn Lữ, Hồ Văn Đẩu"
+H00124,H00112,Hồ Văn Khuôn,Hồ Văn Điệt,,Nam,,,,,,Hồ Văn Khuôn,,IX,Hồ Văn Giáo,Ông Hai Điệt
+H00125,H00112,Hồ Văn Khuôn,Hồ Văn Thiết,,Nam,,,,,,Hồ Văn Khuôn,,IX,Hồ Văn Giáo,Ông Ba Thiết
+H00126,H00112,Hồ Văn Khuôn,Hồ Văn Đàm,,Nam,,,,,,Hồ Văn Khuôn,,IX,Hồ Văn Giáo,Ông Bốn Đàm
+H00127,H00112,Hồ Văn Khuôn,Hồ Văn Mưu,,Nam,,,,,,Hồ Văn Khuôn,,IX,Hồ Văn Giáo,Ông Mưu
+H00128,H00124,Hồ Văn Điệt,Hồ Diên,,Nam,,,,,,Hồ Văn Điệt,,IX,Hồ Văn Giáo,Học sanh
+H00129,H00124,Hồ Văn Điệt,Hồ Thị Hường,,,,,,,,Hồ Văn Điệt,,IX,Hồ Văn Giáo,"Bà cả Tám, Bà Hường"
+H00130,H00124,Hồ Văn Điệt,Hồ Dương,,,,,,,,Hồ Văn Điệt,,IX,Hồ Văn Giáo,Ông Bốn
+H00131,H00124,Hồ Văn Điệt,Bà Năm,,,,,,,,Hồ Văn Điệt,,IX,Hồ Văn Giáo,
+H00132,H00124,Hồ Văn Điệt,Bà Cửu,,,,,,,,Hồ Văn Điệt,,IX,Hồ Văn Giáo,
+H00133,H00124,Hồ Văn Điệt,Ông Bảy,,,,,,,,Hồ Văn Điệt,,IX,Hồ Văn Giáo,
+H00134,H00114,Hồ Văn Thi,Hồ Văn,,,,,,,Nguyễn Thị Lem,Hồ Văn Thi,Nguyễn Thị Tự,IX,Hồ Văn Giáo,Học Ba
+H00135,H00114,Hồ Văn Thi,Hồ Thị Loan,,,,,,,,Hồ Văn Thi,Nguyễn Thị Tự,IX,Hồ Văn Giáo,Xã Nhuận
+H00136,H00114,Hồ Văn Thi,Hồ Thị Phụng,,,,,,,,Hồ Văn Thi,Nguyễn Thị Tự,IX,Hồ Văn Giáo,Phủ Hàm
+H00137,H00114,Hồ Văn Thi,Hồ Võ,,,,,,,Nguyễn Thị Trúc,Hồ Văn Thi,Nguyễn Thị Tự,IX,Hồ Văn Giáo,Hương kiểm Danh
+H00138,H00114,Hồ Văn Thi,Hồ Thị Em,,,,,,,,Hồ Văn Thi,Nguyễn Thị Tự,IX,Hồ Văn Giáo,Hộ Sáu
+H00139,H00114,Hồ Văn Thi,Hồ Thị Mắn,,,,,,,,Hồ Văn Thi,Nguyễn Thị Tự,IX,Hồ Văn Giáo,Xã Nhuận
+H00140,H00115,Hồ Văn Bình,Hồ Thị Thảo,,,,,,,,Hồ Văn Bình,,IX,Hồ Văn Giáo,
+H00141,H00115,Hồ Văn Bình,Hồ Thị Cúc,,,,,,,,Hồ Văn Bình,,IX,Hồ Văn Giáo,
+H00142,H00115,Hồ Văn Bình,Hồ Huỳnh,,,,,,,,Hồ Văn Bình,,IX,Hồ Văn Giáo,
+H00143,H00117,Hồ Văn Vàng,Hồ Trình,,,,,,,,Hồ Văn Vàng,,IX,Hồ Văn Giáo,
+H00144,H00117,Hồ Văn Vàng,Hồ Bút,,,,,,,,Hồ Văn Vàng,,IX,Hồ Văn Giáo,
+H00145,H00118,Hồ Văn Chỏng,Hồ Thoại,,,,,,,Tống Thị U,Hồ Văn Chỏng,,IX,Hồ Văn Giáo,
+H00146,H00123,Hồ Văn Bính,Hồ Sính,,,,,,,Phạm Thị Chờ,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00147,H00123,Hồ Văn Bính,Hồ Thị Đính,,,,,,,,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00148,H00123,Hồ Văn Bính,Hồ Thị Hợi,,,,,,,Võ Tôn,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00149,H00123,Hồ Văn Bính,Hồ Thị Ân,,,,,,,,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00150,H00123,Hồ Văn Bính,Hồ Thị Nần,,,,,,,Trần Mưa,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00151,H00123,Hồ Văn Bính,Hồ Lạc,,,,,,,Phạm Thị Thảo,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00152,H00123,Hồ Văn Bính,Hồ Cáo,,,,,,,,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00153,H00123,Hồ Văn Bính,Hồ Đắc,,,,,,,Võ Thị Âm,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00154,H00123,Hồ Văn Bính,Hồ Hiếu,,,,,,,,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00155,H00123,Hồ Văn Bính,Hồ Thị Tịnh,,,,,,,Võ Đạt,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00156,H00123,Hồ Văn Bính,Hồ Nhỏ,,,,,,,,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00157,H00123,Hồ Văn Bính,Hồ Phú,,,,,,,Võ Thị Thò,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00158,H00123,Hồ Văn Bính,Hồ Để,,,,,,,Võ Thị Hoài,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00159,H00123,Hồ Văn Bính,Hồ Tín,,,,,,,Nguyễn Thị Lương,Hồ Văn Bính,Nguyễn Thị Điển,IX,Hồ Văn Giáo,
+H00160,H00125,Hồ Văn Thiết,Hồ Điểm,,,,,,,,Hồ Văn Thiết,,IX,Hồ Văn Giáo,
+H00161,H00128,Hồ Diên,Hồ Yêm,,,,,,,Ưng Bàng,Hồ Diên,,IX,Hồ Văn Giáo,"Tri phủ An nhơn thời Bảo Đại, Chánh án tòa án tỉnh Bình định thời 9 năm kháng chiến chống Pháp, Đổng lý Văn phòng VNCH thời Ngô đình Diệm, Chủ tịch Ngân hàng Tín dụng Sài gòn, vợ là hai con gái ông Ưng Bàng Thượng thư Bộ Lễ thời Bảo Đại"
+H00162,H00128,Hồ Diên,Hồ Liêm,,,,,,,Ưng Bàng,Hồ Diên,,IX,Hồ Văn Giáo,"làm việc ở Tòa Khâm sứ Trung kỳ thời Bảo Đại, tỉnh trưởng Gia lai thời Ngô đình Diệm, vợ là em ruột hai người vợ ông Yêm, con gái ông Ưng Bàng Thượng thư Bộ Lễ thời Bảo Đại"
+H00163,H00134,Hồ Văn,Hồ Thị Hảo,,,,,,,,Hồ Văn,Nguyễn Thị Lem,IX,Hồ Văn Giáo,
+H00164,H00134,Hồ Văn,Hồ Thị Cửu,,,,,,,,Hồ Văn,Nguyễn Thị Lem,IX,Hồ Văn Giáo,
+H00165,H00134,Hồ Văn,Hồ Văn Ngọc,,,,,,,,Hồ Văn,Nguyễn Thị Lem,IX,Hồ Văn Giáo,
+H00166,H00134,Hồ Văn,Hồ Hoàng,25-03-1905,,,,,,"Nguyễn Thị Sương, Trần Thị Thuộc",Hồ Văn,Nguyễn Thị Lem,IX,Hồ Văn Giáo,
+H00167,H00134,Hồ Văn,Hồ Thị Sang,,,,,,,,Hồ Văn,Nguyễn Thị Lem,IX,Hồ Văn Giáo,
+H00168,H00134,Hồ Văn,Hồ Thị Trượng,,,,,,,,Hồ Văn,Nguyễn Thị Lem,IX,Hồ Văn Giáo,
+H00169,H00134,Hồ Văn,Hồ Ngọc Châu,03-04-1905,,,29-04-1905,,,Nguyễn Thị Ngọc CHâu,Hồ Văn,Nguyễn Thị Lem,IX,Hồ Văn Giáo,
+H00170,H00134,Hồ Văn,Hồ Thị Cượng,,,,,,,,Hồ Văn,Nguyễn Thị Lem,IX,Hồ Văn Giáo,
+H00171,H00137,Hồ Võ,Hồ Chương,,,,,,,Trần Thị Khá,Hồ Võ,Nguyễn Thị Trúc,IX,Hồ Văn Giáo,
+H00172,H00137,Hồ Võ,Hồ Thị Trắc,,,,,,,,Hồ Võ,Nguyễn Thị Trúc,IX,Hồ Văn Giáo,Ở Quảng Phú
+H00173,H00137,Hồ Võ,Hồ Thị Trở,,,,,,,Bùi Đồng,Hồ Võ,Nguyễn Thị Trúc,IX,Hồ Văn Giáo,Ở Chánh Lộ
+H00174,H00137,Hồ Võ,Hồ Thái Khương,06-04-1905,,,,,,Phạm Thị Lý,Hồ Võ,Nguyễn Thị Trúc,IX,Hồ Văn Giáo,Quý Hợi
+H00175,H00137,Hồ Võ,Hồ Thái Dương,08-04-1905,,,,,,Trần Thị Thu Thảo,Hồ Võ,Nguyễn Thị Trúc,IX,Hồ Văn Giáo,
+H00176,H00137,Hồ Võ,Hồ Thái Phiên,10-04-1905,,,,,,Phạm Thị Lũy,Hồ Võ,Nguyễn Thị Trúc,IX,Hồ Văn Giáo,
+H00177,H00137,Hồ Võ,Hồ Thị Minh Hiền,,,,,,,Nguyễn Miệt,Hồ Võ,Nguyễn Thị Trúc,IX,Hồ Văn Giáo,"Ở Tinh Minh, Sơn Tinh"
+H00178,H00137,Hồ Võ,Hồ Thị Anh Thư,,,,,,,Trần Nguyên Căn,Hồ Võ,Nguyễn Thị Trúc,IX,Hồ Văn Giáo,Ở Chánh Lộ
+H00179,H00145,Hồ Thoại,Hồ Thị Loan,,,,,,,,Hồ Thoại,Tống Thị U,X,Hồ Văn Giáo,
+H00180,H00145,Hồ Thoại,Hồ Thị Truật,,,,,,,,Hồ Thoại,Tống Thị U,X,Hồ Văn Giáo,
+H00181,H00145,Hồ Thoại,Hồ Văn Minh,,,,,,,,Hồ Thoại,Tống Thị U,X,Hồ Văn Giáo,
+H00182,H00145,Hồ Thoại,Hồ Văn Cảnh,,,,,,,,Hồ Thoại,Tống Thị U,X,Hồ Văn Giáo,
+H00183,H00145,Hồ Thoại,Hồ Thị Nguyệt,,,,,,,,Hồ Thoại,Tống Thị U,X,Hồ Văn Giáo,
+H00184,H00145,Hồ Thoại,Hồ Văn Trung,,,,,,,,Hồ Thoại,Tống Thị U,X,Hồ Văn Giáo,
+H00185,H00146,Hồ Sính,Hồ Lễ,,,,,,,,Hồ Sính,Phạm Thị Chờ,X,Hồ Văn Giáo,
+H00186,H00146,Hồ Sính,Hồ Ngọc Diêu,,,,,,,,Hồ Sính,Phạm Thị Chờ,X,Hồ Văn Giáo,
+H00187,H00146,Hồ Sính,Hồ Thị Từ,,,,,,,,Hồ Sính,Phạm Thị Chờ,X,Hồ Văn Giáo,
+H00188,H00146,Hồ Sính,Hồ Thị Na,,,,,,,,Hồ Sính,Phạm Thị Chờ,X,Hồ Văn Giáo,
+H00189,H00146,Hồ Sính,Hồ Thị Nê,,,,,,,,Hồ Sính,Phạm Thị Chờ,X,Hồ Văn Giáo,
+H00190,H00146,Hồ Sính,Hồ Ngọc Thế,,,,,,,,Hồ Sính,Phạm Thị Chờ,X,Hồ Văn Giáo,
+H00191,H00151,Hồ Lạc,Hồ Thị Vấn,,,,,,,,Hồ Lạc,Phạm Thị Thảo,X,Hồ Văn Giáo,
+H00192,H00151,Hồ Lạc,Hồ Thị Nở,,,,,,,,Hồ Lạc,Phạm Thị Thảo,X,Hồ Văn Giáo,
+H00193,H00151,Hồ Lạc,Hồ Thị Buộc,,,,,,,,Hồ Lạc,Phạm Thị Thảo,X,Hồ Văn Giáo,
+H00194,H00151,Hồ Lạc,Hồ Ngọc Nhịp,,,,,,,,Hồ Lạc,Phạm Thị Thảo,X,Hồ Văn Giáo,
+H00195,H00151,Hồ Lạc,Hồ Thị Luôn,,,,,,,,Hồ Lạc,Phạm Thị Thảo,X,Hồ Văn Giáo,
+H00196,H00151,Hồ Lạc,Hồ Ngọc Trò,,,,,,,,Hồ Lạc,Phạm Thị Thảo,X,Hồ Văn Giáo,
+H00197,H00151,Hồ Lạc,Hồ Ngọc Mười,,,,,,,,Hồ Lạc,Phạm Thị Thảo,X,Hồ Văn Giáo,
+H00198,H00153,Hồ Đắc,Hồ Ngọc Cử,,,,,,,,Hồ Đắc,Võ Thị Âm,X,Hồ Văn Giáo,
+H00199,H00153,Hồ Đắc,Hồ Thị Nhơn,,,,,,,,Hồ Đắc,Võ Thị Âm,X,Hồ Văn Giáo,
+H00200,H00153,Hồ Đắc,Hồ Ngọc Đức,,,,,,,,Hồ Đắc,Võ Thị Âm,X,Hồ Văn Giáo,
+H00201,H00153,Hồ Đắc,Hồ Ngọc Năm,,,,,,,,Hồ Đắc,Võ Thị Âm,X,Hồ Văn Giáo,
+H00202,H00153,Hồ Đắc,Hồ Ngọc Hòa,,,,,,,,Hồ Đắc,Võ Thị Âm,X,Hồ Văn Giáo,
+H00203,H00153,Hồ Đắc,Hồ Thị Hồng Vân,,,,,,,,Hồ Đắc,Võ Thị Âm,X,Hồ Văn Giáo,
+H00204,H00153,Hồ Đắc,Hồ Thị Hồng Hoa,,,,,,,,Hồ Đắc,Võ Thị Âm,X,Hồ Văn Giáo,
+H00205,H00157,Hồ Phú,Hồ Ngọc On,,,,,,,,Hồ Phú,Võ Thị Thò,X,Hồ Văn Giáo,
+H00206,H00157,Hồ Phú,Hồ Thị Đơ,,,,,,,,Hồ Phú,Võ Thị Thò,X,Hồ Văn Giáo,
+H00207,H00157,Hồ Phú,Hồ Thị Toa,,,,,,,,Hồ Phú,Võ Thị Thò,X,Hồ Văn Giáo,
+H00208,H00157,Hồ Phú,Hồ Thị Xanh,,,,,,,,Hồ Phú,Võ Thị Thò,X,Hồ Văn Giáo,
+H00209,H00157,Hồ Phú,Hồ Thị Xít,,,,,,,,Hồ Phú,Võ Thị Thò,X,Hồ Văn Giáo,
+H00210,H00158,Hồ Để,Hồ Huấn,,,,,,,,Hồ Để,Võ Thị Hoài,X,Hồ Văn Giáo,
+H00211,H00158,Hồ Để,Hồ Ngọc Thuận,,,,,,,,Hồ Để,Võ Thị Hoài,X,Hồ Văn Giáo,
+H00212,H00158,Hồ Để,Hồ Thị Quân,,,,,,,,Hồ Để,Võ Thị Hoài,X,Hồ Văn Giáo,
+H00213,H00158,Hồ Để,Hồ Ngọc Công,,,,,,,,Hồ Để,Võ Thị Hoài,X,Hồ Văn Giáo,
+H00214,H00158,Hồ Để,Hồ Thị Đồng,,,,,,,,Hồ Để,Võ Thị Hoài,X,Hồ Văn Giáo,
+H00215,H00158,Hồ Để,Hồ Thị Điển,,,,,,,,Hồ Để,Võ Thị Hoài,X,Hồ Văn Giáo,
+H00216,H00158,Hồ Để,Hồ Ngọc Thông,,,,,,,,Hồ Để,Võ Thị Hoài,X,Hồ Văn Giáo,
+H00217,H00158,Hồ Để,Hồ Thị Hương,,,,,,,,Hồ Để,Võ Thị Hoài,X,Hồ Văn Giáo,
+H00218,H00158,Hồ Để,Hồ Thị Liên,,,,,,,,Hồ Để,Võ Thị Hoài,X,Hồ Văn Giáo,
+H00219,H00158,Hồ Để,Hồ Ngọc Thanh,,,,,,,,Hồ Để,Võ Thị Hoài,X,Hồ Văn Giáo,
+H00220,H00159,Hồ Tín,Hồ Thị Mai,,,,,,,,Hồ Tín,Nguyễn Thị Lương,X,Hồ Văn Giáo,
+H00221,H00159,Hồ Tín,Hồ Thị Liễu,,,,,,,,Hồ Tín,Nguyễn Thị Lương,X,Hồ Văn Giáo,
+H00222,H00160,Hồ Điểm,Hồ Đê,,,,,,,Trần Thị Hồng Vân,Hồ Điểm,,X,Hồ Văn Giáo,"Tức Thống, đang quản lý Hồ Từ Đường tại 263/3 Phan đình Phùng, P.Chánh lộ, Tp Quảng"
+H00223,H00161,Hồ Yêm,Hồ Tiêm,,,,,,,,Hồ Yêm,,X,Hồ Văn Giáo,"Bác sĩ  cư ngụ đường Tràn quang Diệu Q.3, Tp Hồ chí Minh"
+H00224,H00166,Hồ Hoàng,Hồ Hậu,15-04-1905,,,,,,Nguyễn Thị Dược,Hồ Hoàng,Nguyễn Thị Sương,X,Hồ Văn Giáo,
+H00225,H00166,Hồ Hoàng,Hồ Thị Quỳnh,17-04-1905,,,,,,Lê Mịnh,Hồ Hoàng,Nguyễn Thị Sương,X,Hồ Văn Giáo,
+H00226,H00166,Hồ Hoàng,Hồ Hơn,19-04-1905,,,,,,Võ Thị Thúy Hằng,Hồ Hoàng,Nguyễn Thị Sương,X,Hồ Văn Giáo,
+H00227,H00166,Hồ Hoàng,Hồ Thị Tuyết,22-04-1905,,,,,,Phan Tất Túc,Hồ Hoàng,Nguyễn Thị Sương,X,Hồ Văn Giáo,
+H00228,H00166,Hồ Hoàng,Hồ Văn Hồng,24-04-1905,,,,,,Phạm Thị Hoa,Hồ Hoàng,Nguyễn Thị Sương,X,Hồ Văn Giáo,
+H00229,H00166,Hồ Hoàng,Hồ Thị Hải,26-04-1905,,,,,,Trần Ngọc Ấn,Hồ Hoàng,Nguyễn Thị Sương,X,Hồ Văn Giáo,
+H00230,H00166,Hồ Hoàng,Hồ Thế Hưng,06-05-1905,,,,,,Trần Thị Dành,Hồ Hoàng,Nguyễn Thị Sương,X,Hồ Văn Giáo,
+H00231,H00166,Hồ Hoàng,Hồ Thế Hùng,08-05-1905,,,,,,Vũ Thị Ly Ly,Hồ Hoàng,Nguyễn Thị Sương,X,Hồ Văn Giáo,
+H00232,H00166,Hồ Hoàng,Hồ Thị Hà,11-05-1905,,,,,,Nguyễn Gia Lâm,Hồ Hoàng,Nguyễn Thị Sương,X,Hồ Văn Giáo,
+H00233,H00166,Hồ Hoàng,Hồ Thế Hân,17-05-1905,,,,,,Phạm Thị Thu Trang,Hồ Hoàng,Nguyễn Thị Sương,X,Hồ Văn Giáo,
+H00234,H00008,Hồ Ngọc Châu,Hồ Thị Thạnh,,,,,,,,Hồ Ngọc Châu,Nguyễn Thị Ngọc Châu,X,Hồ Văn Giáo,
+H00235,H00171,Hồ Chương,Hồ Thị Hoa,,,,,,,,Hồ Chương,Trần Thị Khá,X,Hồ Văn Giáo,
+H00236,H00171,Hồ Chương,Hồ Thị Sen,,,,,,,,Hồ Chương,Trần Thị Khá,X,Hồ Văn Giáo,
+H00237,H00171,Hồ Chương,Hồ Thị Xuân,,,,,,,,Hồ Chương,Trần Thị Khá,X,Hồ Văn Giáo,
+H00238,H00171,Hồ Chương,Hồ Ngọc Khánh,,,,,,,,Hồ Chương,Trần Thị Khá,X,Hồ Văn Giáo,
+H00239,H00171,Hồ Chương,Hồ Thị Anh Trâm,,,,,,,,Hồ Chương,Trần Thị Khá,X,Hồ Văn Giáo,
+H00240,H00171,Hồ Chương,Hồ Ngọc Thái,,,,,,,,Hồ Chương,Trần Thị Khá,X,Hồ Văn Giáo,
+H00241,H00171,Hồ Chương,Hồ Thị Mỹ Trang,,,,,,,,Hồ Chương,Trần Thị Khá,X,Hồ Văn Giáo,
+H00242,H00174,Hồ Thái Khương,Hồ Minh Đức,12-12-1948,,,,,,"Nguyễn Thị Y Lan, Nguyễn Thị Tùy",Hồ Thái Khương,Phạm Thị Lý,X,Hồ Văn Giáo,
+H00243,H00174,Hồ Thái Khương,Hồ Thị Như Ý,,,,,,,Hồ Mộng Kỳ,Hồ Thái Khương,Phạm Thị Lý,X,Hồ Văn Giáo,
+H00244,H00174,Hồ Thái Khương,Hồ Minh Nghèo,15-05-1905,,,,,,Phan Thị Lệ Tuyết,Hồ Thái Khương,Phạm Thị Lý,X,Hồ Văn Giáo,
+H00245,H00175,Hồ Thái Dương,Hồ Thị Thu Nhi,,,,,,,,Hồ Thái Dương,Trần Thị Thu Thảo,X,Hồ Văn Giáo,
+H00246,H00175,Hồ Thái Dương,Hồ Thị Thu Nguyệt,,,,,,,,Hồ Thái Dương,Trần Thị Thu Thảo,X,Hồ Văn Giáo,
+H00247,H00175,Hồ Thái Dương,Hồ Văn Nam,,,,,,,,Hồ Thái Dương,Trần Thị Thu Thảo,X,Hồ Văn Giáo,
+H00248,H00176,Hồ Thái Phiên,Hồ Thị Yến,,,,,,,Ngô Thanh Quyền,Hồ Thái Phiên,Phạm Thị Lũy,X,Hồ Văn Giáo,
+H00249,H00176,Hồ Thái Phiên,Hồ Thái Tiến,,,,,,,Võ Thị Hạnh,Hồ Thái Phiên,Phạm Thị Lũy,X,Hồ Văn Giáo,
+H00250,H00176,Hồ Thái Phiên,Hồ Thái Quân,,,,,,,"Nguyễn Thị Ly, Lê Thị Thi",Hồ Thái Phiên,Phạm Thị Lũy,X,Hồ Văn Giáo,
+H00251,H00176,Hồ Thái Phiên,Hồ Thái Miên,,,,,,,Trương Thị Minh Hoa,Hồ Thái Phiên,Phạm Thị Lũy,X,Hồ Văn Giáo,
+H00252,H00176,Hồ Thái Phiên,Hồ Thị Dung,,,,,,,Nguyễn Đức Huy,Hồ Thái Phiên,Phạm Thị Lũy,X,Hồ Văn Giáo,
+H00253,H00176,Hồ Thái Phiên,Hồ Thị Thanh,,,,,,,Bùi Quan Tuấn,Hồ Thái Phiên,Phạm Thị Lũy,X,Hồ Văn Giáo,
+H00254,H00176,Hồ Thái Phiên,Hồ Thái Tuấn,,,,,,,,Hồ Thái Phiên,Phạm Thị Lũy,X,Hồ Văn Giáo,
+H00255,H00222,Hồ Đê,Hồ Trần Minh Tiến,,,,,,,,Hồ Đê,Trần Thị Hồng Vân,XI,Hồ Văn Giáo,"đang quản lý Hồ Từ Đường tại 263/3 Phan đình Phùng, P.Chánh lộ, Tp Quảng"
+H00256,H00222,Hồ Đê,Hồ Trần Minh Tấn,,,,02-07-1905,,,,Hồ Đê,Trần Thị Hồng Vân,XI,Hồ Văn Giáo,
+H00257,H00222,Hồ Đê,Hồ Trần Nguyệt Thư,,,,,,,,Hồ Đê,Trần Thị Hồng Vân,XI,Hồ Văn Giáo,
+H00258,H00224,Hồ Hậu,Hồ Thị Thu Phương,12-05-1905,,,,,,,Hồ Hậu,Nguyễn Thị Dược,XI,Hồ Văn Giáo,
+H00259,H00224,Hồ Hậu,Hồ Ngọc Thức,15-05-1905,,,,,,,Hồ Hậu,Nguyễn Thị Dược,XI,Hồ Văn Giáo,
+H00260,H00224,Hồ Hậu,Hồ Ngọc Tuấn,19-05-1905,,,,,,Lê Thị Trúc,Hồ Hậu,Nguyễn Thị Dược,XI,Hồ Văn Giáo,
+H00261,H00224,Hồ Hậu,Hồ Ngọc Tú,20-05-1905,,,,,,,Hồ Hậu,Nguyễn Thị Dược,XI,Hồ Văn Giáo,
+H00262,H00224,Hồ Hậu,Hồ Ngọc Long,24-05-1905,,,,,,,Hồ Hậu,Nguyễn Thị Dược,XI,Hồ Văn Giáo,
+H00263,H00224,Hồ Hậu,Hồ Thị Thu Tâm,26-05-1905,,,,,,,Hồ Hậu,Nguyễn Thị Dược,XI,Hồ Văn Giáo,
+H00264,H00224,Hồ Hậu,Hồ Ngọc Minh,29-05-1905,,,,,,,Hồ Hậu,Nguyễn Thị Dược,XI,Hồ Văn Giáo,
+H00265,H00224,Hồ Hậu,Hồ Ngọc Tân,01-06-1905,,,,,,,Hồ Hậu,Nguyễn Thị Dược,XI,Hồ Văn Giáo,
+H00266,H00225,Hồ Thị Quỳnh,Lê Tiến Dũng,,,,,,,,Hồ Thị Quỳnh,Lê Mịnh,XI,Hồ Văn Giáo,
+H00267,H00225,Hồ Thị Quỳnh,Lê Hoài Linh,,,,,,,,Hồ Thị Quỳnh,Lê Mịnh,XI,Hồ Văn Giáo,
+H00268,H00225,Hồ Thị Quỳnh,Lê Thị Quỳnh Như,,,,,,,,Hồ Thị Quỳnh,Lê Mịnh,XI,Hồ Văn Giáo,
+H00269,H00225,Hồ Thị Quỳnh,Lê Thị Quỳnh Anh,,,,,,,,Hồ Thị Quỳnh,Lê Mịnh,XI,Hồ Văn Giáo,
+H00270,H00225,Hồ Thị Quỳnh,Lê Hoài Thu,,,,,,,,Hồ Thị Quỳnh,Lê Mịnh,XI,Hồ Văn Giáo,
+H00271,H00225,Hồ Thị Quỳnh,Lê Hoài Tâm,,,,,,,,Hồ Thị Quỳnh,Lê Mịnh,XI,Hồ Văn Giáo,
+H00272,H00225,Hồ Thị Quỳnh,Lê Hoài Trung,,,,,,,,Hồ Thị Quỳnh,Lê Mịnh,XI,Hồ Văn Giáo,
+H00273,H00226,Hồ Hơn,Hồ Vũ Anh Huy,20-05-1905,,,,,,,Hồ Hơn,Võ Thị Thúy Hằng,XI,Hồ Văn Giáo,
+H00274,H00226,Hồ Hơn,Hồ Vũ Anh Huân,22-05-1905,,,,,,,Hồ Hơn,Võ Thị Thúy Hằng,XI,Hồ Văn Giáo,
+H00275,H00226,Hồ Hơn,Hồ Vũ Bích Huyên,24-05-1905,,,,,,,Hồ Hơn,Võ Thị Thúy Hằng,XI,Hồ Văn Giáo,
+H00276,H00226,Hồ Hơn,Hồ Vũ Anh Hòa,26-05-1905,,,,,,,Hồ Hơn,Võ Thị Thúy Hằng,XI,Hồ Văn Giáo,
+H00277,H00226,Hồ Hơn,Hồ Vũ Anh Hoài,27-05-1905,,,,,,,Hồ Hơn,Võ Thị Thúy Hằng,XI,Hồ Văn Giáo,
+H00278,H00227,Hồ Thị Tuyết,Phan Thị Kim Thư,,,,,,,,Hồ Thị Tuyết,Phan Tất Túc,XI,Hồ Văn Giáo,
+H00279,H00227,Hồ Thị Tuyết,Phan Tất Chương,,,,,,,,Hồ Thị Tuyết,Phan Tất Túc,XI,Hồ Văn Giáo,
+H00280,H00227,Hồ Thị Tuyết,Phan Tất Thọ,,,,,,,,Hồ Thị Tuyết,Phan Tất Túc,XI,Hồ Văn Giáo,
+H00281,H00228,Hồ Văn Hồng,Hồ Phạm Đông Nghi,,,,,,,,Hồ Văn Hồng,Phạm Thị Hoa,XI,Hồ Văn Giáo,
+H00282,H00228,Hồ Văn Hồng,Hồ Phạm Bảo Trân,,,,,,,,Hồ Văn Hồng,Phạm Thị Hoa,XI,Hồ Văn Giáo,
+H00283,H00229,Hồ Thị Hải,Trần Quốc Bảo,,,,,,,,Hồ Thị Hải,Trần Ngọc Ấn,XI,Hồ Văn Giáo,
+H00284,H00229,Hồ Thị Hải,Trần Quốc Việt,,,,,,,,Hồ Thị Hải,Trần Ngọc Ấn,XI,Hồ Văn Giáo,
+H00285,H00230,Hồ Thế Hưng,Hồ Trần Minh Quang,,,,,,,,Hồ Thế Hưng,Trần Thị Dành,XI,Hồ Văn Giáo,
+H00286,H00230,Hồ Thế Hưng,Hồ Trần Minh Khang,,,,,,,,Hồ Thế Hưng,Trần Thị Dành,XI,Hồ Văn Giáo,
+H00287,H00231,Hồ Thế Hùng,Hồ Thị Bi,,,,,,,,Hồ Thế Hùng,Vũ Thị Ly Ly,XI,Hồ Văn Giáo,
+H00288,H00232,Hồ Thị Hà,Nguyễn Gia Hiếu,,,,,,,,Hồ Thị Hà,Nguyễn Gia Lâm,XI,Hồ Văn Giáo,
+H00289,H00242,Hồ Minh Đức,Hồ Thị Minh Thủy,27-05-1905,,,,,,,Hồ Minh Đức,Nguyễn Thị Y Lan,XI,Hồ Văn Giáo,
+H00290,H00242,Hồ Minh Đức,Hồ Thị Minh Thúy,29-05-1905,,,,,,,Hồ Minh Đức,Nguyễn Thị Y Lan,XI,Hồ Văn Giáo,
+H00291,H00242,Hồ Minh Đức,Hồ Minh Tấn,01-06-1905,,,,,,,Hồ Minh Đức,Nguyễn Thị Y Lan,XI,Hồ Văn Giáo,
+H00292,H00242,Hồ Minh Đức,Hồ Minh Tân,04-06-1905,,,,,,,Hồ Minh Đức,Nguyễn Thị Tùy,XI,Hồ Văn Giáo,
+H00293,H00243,Hồ Thị Như Ý,Hồ Thị Thúy Vy,25-05-1905,,,,,,,Hồ Thị Như Ý,Hồ Mộng Kỳ,XI,Hồ Văn Giáo,
+H00294,H00243,Hồ Thị Như Ý,Hồ Thị Thúy Ly,27-05-1905,,,,,,,Hồ Thị Như Ý,Hồ Mộng Kỳ,XI,Hồ Văn Giáo,
+H00295,H00244,Hồ Minh Nghèo,Hồ Minh Bình,18-06-1905,,,,,,,Hồ Minh Nghèo,Phan Thị Lệ Tuyết,XI,Hồ Văn Giáo,
+H00296,H00244,Hồ Minh Nghèo,Hồ Thị Minh Diệp,,,,,,,,Hồ Minh Nghèo,Phan Thị Lệ Tuyết,XI,Hồ Văn Giáo,
+H00297,H00244,Hồ Minh Nghèo,Hồ Thị Cẩm Tú,,,,,,,,Hồ Minh Nghèo,Phan Thị Lệ Tuyết,XI,Hồ Văn Giáo,
+H00298,H00260,Hồ Ngọc Tuấn,Hồ Ngọc Thảo Hương,14-06-1905,,,,,,,Hồ Ngọc Tuấn,Lê Thị Trúc,XII,Hồ Văn Giáo,
+H00299,H00103,Hồ Văn Hiệu ,Hồ Văn Thừa,01-02-1905,,,12/10 Kỷ Tỵ (13/11/1929),"Chánh Lộ, Tư Nghĩa, Quảng Ngãi","Gò Chàm, thôn Mỹ Thạnh, xã Nhơn Phúc, huyện An Nhơn, tỉnh Bình Định","Nguyễn Thị Huy, Nguyễn Thị Hảo, Nguyễn Thị Tùng",Hồ Văn Hiệu ,Ngô Thị Thẩm,VIII,Hồ Văn Giáo,"Tri phủ An nhơn, tỉnh Bình định thời Tự đức (có ảnh lưu lại thấy áo, mũ, hia theo triều phục, chưa rõ phẩm hàm gì, ở quê nhà gọi ông là Bát Thừa, có thể là hảm bát phẩm) đã nghỉ hưu, mất 12/10 Kỷ tỵ (13/11/1929) cải táng tại Gò Chàm, thôn Mỹ thạnh, xã Nhơn phúc, huyện An nhơn, tỉnh Bình định, vợ Nguyễn thị Huy, Nguyễn thị Hảo sanh Nhâm tuất (1862) tại Xuân phố, Nghĩa kỳ, Tư nghĩa, Quảng ngãi, ngày kỵ 19/4, cải táng tại Gò Chàm, Nguyễn thị Tùng mất và an táng tại thôn Phụ ngọc, xã Nhơn phúc"
+H00300,H00103,Hồ Văn Hiệu ,Hồ văn Hào,,,,,,,,Hồ Văn Hiệu ,Ngô Thị Thẩm,VIII,Hồ Văn Giáo,
+H00301,H00103,Hồ Văn Hiệu ,Hồ Văn Bồn,,,,,,,Huỳnh Thị San,Hồ Văn Hiệu ,Ngô Thị Thẩm,VIII,Hồ Văn Giáo,Ông Trịnh
+H00302,H00103,Hồ Văn Hiệu ,Hồ văn Quốc ,,,,,,,,Hồ Văn Hiệu ,Ngô Thị Thẩm,VIII,Hồ Văn Giáo,(Ngô)
+H00303,H00103,Hồ Văn Hiệu ,Hồ Văn Hải,,,,,,,Huỳnh Thị San,Hồ Văn Hiệu ,Ngô Thị Thẩm,VIII,Hồ Văn Giáo,(Lùn) (ông Bảy Dài)
+H00304,H00103,Hồ Văn Hiệu ,Hồ Xưởng,,,,,,,,Hồ Văn Hiệu ,Ngô Thị Thẩm,VIII,Hồ Văn Giáo,
+H00305,H00103,Hồ Văn Hiệu ,Hồ Thị Mỹ,,,,,,,,Hồ Văn Hiệu ,Ngô Thị Thẩm,VIII,Hồ Văn Giáo,
+H00306,H00299,Hồ Văn Thừa,Hồ Văn Ngưỡng,Kỷ Mùi (1859),,,12/10 Kỷ Tỵ (13/11/1929),"Chánh Lộ, Tư Nghĩa, Quảng Ngãi","Gò Chàm, thôn Mỹ Thạnh, xã Nhơn Phúc, huyện An Nhơn, tỉnh Bình Định","Nguyễn Thị Huy, Nguyễn Thị Hảo",Hồ Văn Thừa,Nguyễn Thị Huy,IX,Hồ Văn Giáo,Con cả
+H00307,H00299,Hồ Văn Thừa,Hồ Thị Uyển,,,,,,,Nguyễn Văn Giai,Hồ Văn Thừa,Nguyễn Thị Huy,IX,Hồ Văn Giáo,
+H00308,H00299,Hồ Văn Thừa,Hồ Khương,1/1/1889,,,08-01-1953,"Nghĩa lộ, Tư nghĩa, Quảng Ngãi",Gò Chàm,"Lưu Thị Hòa, Tô Thị Bảy (Ngưu), Nguyễn Thị Nhi",Hồ Văn Thừa,Nguyễn Thị Huy,IX,Hồ Văn Giáo,"Hồ Khương sanh Kỷ Sửu (1889) tại Nghĩa lộ, Tư nghĩa, Quảng ngãi, theo phụ
+thân là Hồ văn Thừa vào An nhơn, Bình định, từng là Thừa phái, Lục sự phủ An
+nhơn, huyện Tân an (An khê), đạo Đắc lắc, huyện Đồng xuân, huyện Sơn hòa (Phủ
+yên) & huyện Tân an đến sau CM tháng 8, được sắc phong Hàn lâm viện Kiểm
+thảo (tương đương thất phẩm), lập nghiệp tại An khẽ và Nhơn phúc, mất 23/11
+Nhâm thìn (8/1/1953) cải táng tại Gò Chàm, vợ Lưu thị Hòa quê Nhơn thọ mất
+17/3 Mậu ngọ, cải táng tại Gò Chàm, Tô thị Bảy (Ngưu) sanh Mậu tỷ (1888) tại
+Nhơn khảnh, mất 21/8 Át mùi (1955) cải táng tại Gò Chảm, Nguyễn thị Nhi sanh
+Quý sửu (1913) tại Bình an, Tây sơn (đã ly hôn) lập nghiệp tại đường Cống Quỳnh
+Q1, an táng tại nghĩa trang Q12, Tp Hồ chí Minh, ngày kỵ 30/7"
+H00309,H00299,Hồ Văn Thừa,Hồ Văn Thái,,,,,,,,Hồ Văn Thừa,Nguyễn Thị Huy,IX,Hồ Văn Giáo,
+H00310,H00299,Hồ Văn Thừa,Hồ Vinh,01-01-1892,,,01-01-1929,"Nghĩa lộ, Tư nghĩa, Quảng Ngãi",Gò Chàm,"Trần Thị Xê, Bùi Thị Luyến, Nguyễn Thị Cảnh, Nguyễn Thị Lý",Hồ Văn Thừa,Nguyễn Thị Huy,IX,Hồ Văn Giáo,"Nhâm Thìn (1892) tại Nghĩa Lộ, Tư Nghĩa, Quảng Ngãi, theo phụ thân là Hồ văn Thừa vào lập nghiệp tại Nhơn Phúc, Chánh Cửu phẩm, mất Kỷ Tỵ (1929) cải táng tại Gò Chàm, vợ Trần thị Xê. Bùi thị Luyến, Nguyễn thị Cảnh, Nguyễn thị Lý sanh Quý Mão tại Thông Hỏa xã Nhơn Khánh, buôn bán, lập nghiệp tại Nhơn Phúc mất Canh Dần (15/2/1940) cải táng tại Gò Chàm, sanh hạ: Đời thứ X: Hồ thị Thạnh, Hồ tấn Liên, Hồ tấn Pha sanh Bính Dần (1926) mất 2/5 Nhâm Thìn (5/6/1932) cải táng tại Gò Chàm, Hồ tấn Ba, Hồ thị Tôn (mẹ là bà Tâm, vợ ngoài giá thú)"
+H00311,H00299,Hồ Văn Thừa,Hồ Ngọc Anh,1/1/1898,,,21/12/1970,"Nghĩa lộ, Tư nghĩa, Quảng Ngãi",Gò Chàm,Nguyễn Thị Chín,Hồ Văn Thừa,Nguyễn Thị Huy,IX,Hồ Văn Giáo,"lập nghiệp tại Nhơn phúc, An nhơn, Bình định, điền chủ,
+Xã trưởng Nhơn phúc thời Ngô đình Diệm, mất 23/11 Canh tuất (1970) cải táng tại
+Gò Chàm, vợ Nguyễn thị Chín sanh At ty (1905) tại Đập đá, Nhơn hậu, An nhơn,
+nơi trợ, mất 15/11 Mậu ngọ (21/12/1978) cải táng tại Gò Chám"
+H00312,H00299,Hồ Văn Thừa,Hồ Thị Chờ,,,,,,,,Hồ Văn Thừa,Nguyễn Thị Huy,IX,Hồ Văn Giáo,
+H00313,H00301,Hồ Văn Bồn,Hồ Thị Hượt,,,,,,,,Hồ Văn Bồn,,IX,Hồ Văn Giáo,
+H00314,H00301,Hồ Văn Bồn,Hồ Tiềm,,,,,,,,Hồ Văn Bồn,,IX,Hồ Văn Giáo,
+H00315,H00301,Hồ Văn Bồn,Hồ Muốn,,,,,,,,Hồ Văn Bồn,,IX,Hồ Văn Giáo,
+H00316,H00301,Hồ Văn Bồn,Hồ Thị Sưa,,,,,,,,Hồ Văn Bồn,,IX,Hồ Văn Giáo,
+H00317,H00303,Hồ Văn Hải,Hồ Dài,,,,,,,,Hồ Văn Hải,Huỳnh Thị San,IX,Hồ Văn Giáo,
+H00318,H00303,Hồ Văn Hải,Hồ Rợ,,,,,,,,Hồ Văn Hải,Huỳnh Thị San,IX,Hồ Văn Giáo,
+H00319,H00303,Hồ Văn Hải,Hồ Thị Xí,,,,,,,,Hồ Văn Hải,Huỳnh Thị San,IX,Hồ Văn Giáo,
+H00320,H00303,Hồ Văn Hải,Hồ Thị Đồm,,,,,,,,Hồ Văn Hải,Huỳnh Thị San,IX,Hồ Văn Giáo,
+H00321,H00303,Hồ Văn Hải,Hồ Thị Lụa,,,,,,,,Hồ Văn Hải,Huỳnh Thị San,IX,Hồ Văn Giáo,
+H00322,H00303,Hồ Văn Hải,Hồ Thị Tám,,,,,,,,Hồ Văn Hải,Huỳnh Thị San,IX,Hồ Văn Giáo,
+H00323,H00303,Hồ Văn Hải,Hồ Thị Chót,,,,,,,,Hồ Văn Hải,Huỳnh Thị San,IX,Hồ Văn Giáo,
+H00324,H00304,Hồ Xưởng,Hồ Chai,,,,,,,,Hồ Xưởng,,IX,Hồ Văn Giáo,
+H00325,H00304,Hồ Xưởng,Hồ Thị Truyền,,,,,,,,Hồ Xưởng,,IX,Hồ Văn Giáo,
+H00326,H00314,Hồ Tiềm,Hồ Ngọc Ri,,,,,Chánh Lộ,,,Hồ Tiềm,,X,Hồ Văn Giáo,
+H00327,H00314,Hồ Tiềm,Hồ Ngọc Đường,,,,,Chánh Lộ,,,Hồ Tiềm,,X,Hồ Văn Giáo,
+H00328,H00314,Hồ Tiềm,Hồ Ngọc Vương,,,,,Chánh Lộ,,,Hồ Tiềm,,X,Hồ Văn Giáo,
+H00329,H00314,Hồ Tiềm,Hồ Ngọc Út,,,,,Chánh Lộ,,,Hồ Tiềm,,X,Hồ Văn Giáo,
+H00330,H00314,Hồ Tiềm,Hồ Thị Miết,,,,,Chánh Lộ,,,Hồ Tiềm,,X,Hồ Văn Giáo,
+H00331,H00314,Hồ Tiềm,Hồ Thị Muộn,,,,,Chánh Lộ,,,Hồ Tiềm,,X,Hồ Văn Giáo,
+H00332,H00317,Hồ Dài,Hồ Thể,,,,,Chánh Lộ,,,Hồ Dài,,X,Hồ Văn Giáo,"nghề xây dựng, lập nghiệp tại đường 4, P.An lạc A, Q.Bình tân, Tp Hồ chí Minh"
+H00333,H00317,Hồ Dài,Hồ Vinh,,,,,Chánh Lộ,,,Hồ Dài,,X,Hồ Văn Giáo,
+H00334,H00317,Hồ Dài,Hồ Đó,,,,,Chánh Lộ,,,Hồ Dài,,X,Hồ Văn Giáo,
+H00335,H00317,Hồ Dài,Hồ Em,,,,,Chánh Lộ,,,Hồ Dài,,X,Hồ Văn Giáo,
+H00336,H00317,Hồ Dài,Hồ Cư,,,,,Chánh Lộ,,,Hồ Dài,,X,Hồ Văn Giáo,
+H00337,H00317,Hồ Dài,Hồ Sơn,,,,,Chánh Lộ,,,Hồ Dài,,X,Hồ Văn Giáo,
+H00338,H00317,Hồ Dài,Hồ Thị Hòa,,,,,Chánh Lộ,,,Hồ Dài,,X,Hồ Văn Giáo,
+H00339,H00317,Hồ Dài,Hồ Thị Minh,,,,,Chánh Lộ,,,Hồ Dài,,X,Hồ Văn Giáo,
+H00340,H00317,Hồ Dài,Hồ Thị Lại,,,,,Chánh Lộ,,,Hồ Dài,,X,Hồ Văn Giáo,
+H00341,H00317,Hồ Dài,Hồ Thị Hồi,,,,,Chánh Lộ,,,Hồ Dài,,X,Hồ Văn Giáo,
+H00342,H00317,Hồ Dài,Hồ Thị Hảo,,,,,Chánh Lộ,,,Hồ Dài,,X,Hồ Văn Giáo,
+H00343,H00318,Hồ Rợ,Hồ Ngọc Sơn,,,,,Chánh Lộ,,,Hồ Rợ,,X,Hồ Văn Giáo,
+H00344,H00318,Hồ Rợ,Hồ Mừng,,,,,Chánh Lộ,,,Hồ Rợ,,X,Hồ Văn Giáo,
+H00345,H00318,Hồ Rợ,Hồ Lên,,,,,Chánh Lộ,,,Hồ Rợ,,X,Hồ Văn Giáo,
+H00346,H00318,Hồ Rợ,Hồ Thị Hôn,,,,,Chánh Lộ,,,Hồ Rợ,,X,Hồ Văn Giáo,
+H00347,H00326,Hồ Ngọc Ri,Hồ Ngọc Biên,,,,,Chánh Lộ,,,Hồ Ngọc Ri,,XI,Hồ Văn Giáo,
+H00348,H00326,Hồ Ngọc Ri,Hồ Ngọc Ân,,,,,Chánh Lộ,,,Hồ Ngọc Ri,,XI,Hồ Văn Giáo,
+H00349,H00327,Hồ Ngọc Đường,Hồ Ngọc Tung,,,,,Chánh Lộ,,,Hồ Ngọc Đường,,XI,Hồ Văn Giáo,
+H00350,H00327,Hồ Ngọc Đường,Hồ Ngọc Nhương,,,,,Chánh Lộ,,,Hồ Ngọc Đường,,XI,Hồ Văn Giáo,
+H00351,H00324,Hồ Chai,Hồ Cược,,,,,Chánh Lộ,,,Hồ Chai,,XI,Hồ Văn Giáo,
+H00352,H00324,Hồ Chai,Hồ Thị Thuyền,,,,,Chánh Lộ,,,Hồ Chai,,XI,Hồ Văn Giáo,
+H00353,H00343,Hồ Ngọc Sơn,Hồ Thị Đa,,,,,Chánh Lộ,,,Hồ Ngọc Sơn,,XI,Hồ Văn Giáo,
+H00354,H00343,Hồ Ngọc Sơn,Hồ Ngọc Diệu,,,,,Chánh Lộ,,,Hồ Ngọc Sơn,,XI,Hồ Văn Giáo,
+H00355,H00343,Hồ Ngọc Sơn,Hồ Ngọc Thảo,,,,,Chánh Lộ,,,Hồ Ngọc Sơn,,XI,Hồ Văn Giáo,
+H00356,H00343,Hồ Ngọc Sơn,Hồ Ngọc Luận,,,,,Chánh Lộ,,,Hồ Ngọc Sơn,,XI,Hồ Văn Giáo,
+H00357,H00343,Hồ Ngọc Sơn,Hồ Ngọc Tính,,,,,Chánh Lộ,,,Hồ Ngọc Sơn,,XI,Hồ Văn Giáo,
+H00358,H00332,Hồ Thể,Hồ Ngọc Danh,,,,,Chánh Lộ,,,Hồ Thể,,XI,Hồ Văn Giáo,
+H00359,H00332,Hồ Thể,Hồ Thị Kim Liên,,,,,Chánh Lộ,,,Hồ Thể,,XI,Hồ Văn Giáo,
+H00360,H00332,Hồ Thể,Hồ Thị Kim Loan,,,,,Chánh Lộ,,,Hồ Thể,,XI,Hồ Văn Giáo,
+H00361,H00332,Hồ Thể,Hồ Ngọc Thanh,,,,,Chánh Lộ,,,Hồ Thể,,XI,Hồ Văn Giáo,
+H00362,H00332,Hồ Thể,Hồ Ngọc Hùng,,,,,Chánh Lộ,,,Hồ Thể,,XI,Hồ Văn Giáo,
+H00363,H00332,Hồ Thể,Hồ Ngọc Dũng,,,,,Chánh Lộ,,,Hồ Thể,,XI,Hồ Văn Giáo,
+H00364,H00332,Hồ Thể,Hồ Thị Kim Châu,,,,,Chánh Lộ,,,Hồ Thể,,XI,Hồ Văn Giáo,
+H00365,H00334,Hồ Đó,Hồ Ngọc Phụng,,,,,Chánh Lộ,,,Hồ Đó,,XI,Hồ Văn Giáo,
+H00366,H00334,Hồ Đó,Hồ Ngọc Cường,,,,,Chánh Lộ,,,Hồ Đó,,XI,Hồ Văn Giáo,
+H00367,H00334,Hồ Đó,Hồ Thị Mai,,,,,Chánh Lộ,,,Hồ Đó,,XI,Hồ Văn Giáo,
+H00368,H00334,Hồ Đó,Hồ Thị Xuân,,,,,Chánh Lộ,,,Hồ Đó,,XI,Hồ Văn Giáo,
+H00369,H00335,Hồ Em,Hồ Sĩ,,,,,Chánh Lộ,,,Hồ Em,,XI,Hồ Văn Giáo,
+H00370,H00335,Hồ Em,Hồ San,,,,,Chánh Lộ,,,Hồ Em,,XI,Hồ Văn Giáo,
+H00371,H00336,Hồ Cư,Hồ Thị Thanh Nhàn,,,,,Chánh Lộ,,,Hồ Cư,,XI,Hồ Văn Giáo,
+H00372,H00336,Hồ Cư,Hồ Ngọc Thịnh,,,,,Chánh Lộ,,,Hồ Cư,,XI,Hồ Văn Giáo,
+H00373,H00336,Hồ Cư,Hồ Ngọc Huy,,,,,Chánh Lộ,,,Hồ Cư,,XI,Hồ Văn Giáo,
+H00374,H00336,Hồ Cư,Hồ Ngọc Luật,,,,,Chánh Lộ,,,Hồ Cư,,XI,Hồ Văn Giáo,
+H00375,H00337,Hồ Sơn,Hồ Ngọc Lâm,,,,,Chánh Lộ,,,Hồ Sơn,,XI,Hồ Văn Giáo,
+H00376,H00337,Hồ Sơn,Hồ Thị Thiên Hương,,,,,Chánh Lộ,,,Hồ Sơn,,XI,Hồ Văn Giáo,
+H00377,H00337,Hồ Sơn,Hồ Ngọc Sanh,,,,,Chánh Lộ,,,Hồ Sơn,,XI,Hồ Văn Giáo,
+H00378,H00337,Hồ Sơn,Hồ Ngọc Khánh,,,,,Chánh Lộ,,,Hồ Sơn,,XI,Hồ Văn Giáo,
+H00379,H00343,Hồ Ngọc Sơn,Hồ Thị Đa,,,,,Chánh Lộ,,,Hồ Ngọc Sơn,,XI,Hồ Văn Giáo,
+H00380,H00343,Hồ Ngọc Sơn,Hồ Ngọc Diêu,,,,,Chánh Lộ,,,Hồ Ngọc Sơn,,XI,Hồ Văn Giáo,
+H00381,H00343,Hồ Ngọc Sơn,Hồ Ngọc Thảo ,,,,,Chánh Lộ,,,Hồ Ngọc Sơn,,XI,Hồ Văn Giáo,
+H00382,H00343,Hồ Ngọc Sơn,Hồ Ngọc Luận,,,,,Chánh Lộ,,,Hồ Ngọc Sơn,,XI,Hồ Văn Giáo,
+H00383,H00343,Hồ Ngọc Sơn,Hồ Ngọc Tình,,,,,Chánh Lộ,,,Hồ Ngọc Sơn,,XI,Hồ Văn Giáo,
+H00384,H00308,Hồ Khương,Hồ Thị Khâm,01-10-1968,,,24-01-1909,Nhơn Phúc,,,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,
+H00385,H00308,Hồ Khương,Hồ Xuân Đào,08-07-1912,,,04-06-1976,Nhơn Phúc,Nghĩa trang Tp Buôn Ma Thuột,Đỗ Thị Bảy,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,"Kế toán hảng buồn Bourgery tại Buôn ma thuột trước CM tháng 8, Chủ tịch UBKCHC xã Nhơn phúc thời 9 năm chống Pháp, bị tù đày thời Ngô đình Diệm, Kế toán Xí nghiệp thời VNCH, lập nghiệp tại 183 Điện biên Phủ, Tp Buôn ma thuột"
+H00386,H00308,Hồ Khương,Hồ Xuân Hương,01-10-1964,,,23-12-1992,Nhơn Phúc,Bờ sông gần Gò Chàm,Phan Thị Khẩu,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,"giáo viên Tiểu
+học trước CM tháng 8, Trường ban Bình dân học vụ xã thời chống Pháp, thư ký
+UB xã thời VNCH, mất 30/10 Nhăm thân (23/12/1992), vợ Phan thị Khẩu sanh
+5/11 Quý sửu (2/12/1913) tại Nhơn thọ, làm ruộng, mất 21/1 Quỷ dậu (3/2/1993),
+lập nghiệp tại Nhơn phúc, ông bà đều an táng tại bờ sông gần Gò Chàm (song mộ),"
+H00387,H00308,Hồ Khương,Hồ Xuân Đài,02-04-1920,,,25-06-2004,Nhơn Phúc,Nghĩa trang thị xã An Khê,"Đình Thị Hạp, Tăng Thị Cước",Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,"thợ may, làm
+ruộng, thư ký Nghiệp đoàn Dệt nhuộm xã Nhơn phúc thời chống Pháp, buôn bán,
+lập nghiệp tại 21 Hai bà Trưng, thị xã An khê, mắt 25/6 Giáp thân (2004) an táng
+tại nghĩa trang thị xã An khê (Gia hội), vợ Đình thị Hạp sanh Quỷ hợi (1923) tại
+Thẳng công, Nhơn phúc, mất Định hợi (1947) an táng tại Gò Súng, Thắng công,
+Tăng thị Cước sanh Giáp tỷ (1924) tại Thắng công, buôn bản tại Ankhê, mất 27/8
+Canh thin (2000) an táng tại nghĩa trang An khê"
+H00388,H00308,Hồ Khương,Hồ Thị Khuê,15-12-1921,,,09-04-1967,Nhơn Phúc,"31 Nguyễn Thị Minh Khai, P.Tây Sơn, thị xã An Khê",Phạm Quá,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,"theo chồng buôn bán ở Phủ yên, Qui nhơn, sau 1975 lập nghiệp tại 31 Nguyễn thị minh Khai, P.Tây Sơn, thị xã An khê, chồng Phạm Quá sanh Mậu ngọ (1918) tại Nhơn phong, lái xe, mất 30/2 Đình mùi (9/4/1967) cải táng về nghĩa trang thị xã An khê"
+H00389,H00308,Hồ Khương,Hồ Xuân Thiều,08-08-1923,,,09-09-1998,Nhơn Phúc,Núi Đá xã Song An,Trần Thị Tú Lan,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,"sanh 26/6 Quý hợi (8/8/1923) tại Nhơn phúc, tham gia cướp
+chính quyền tại huyện Tân an tháng 8/1945, cán bộ tuyên truyền huyện Tân an, cán
+bộ Quân pháp Phòng Chính trị Khu 5, Lục sự tòa án tỉnh Bình định, huyện An
+nhơn, huyện Tuy phước thời chống Pháp, bị tù đày thời Ngô đình Diệm, làm công,
+buôn bán thời VNCH, Thư kỳ và Phó chủ tịch thị trấn Ankhê, mất 30/7 Mậu Dần
+(19/9/1998) an táng tại Núi Đá xã Song an, vợ Trần thị Tú Lan sanh Mậu thìn
+(1928) tại Phước an, Tuy phước, buôn bán, lập nghiệp tại Ankhê, mất 2003"
+H00390,H00308,Hồ Khương,Hồ Xuân Hạnh,12-03-1928,,,,Nhơn Phúc,"629A Nguyễn Kiệm, P3, Q.Gò Vấp",Phan Thủy Phụng,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,"Hiệu trưởng
+trương Tiểu học Tân phong trước 1945, cán bộ tuyên truyền huyện Tân an, giáo
+viên Tiếu học trường An nhơn, Đại đội trưởng Vệ quốc quân tại Tham mưu khu 6,
+Tham mưu Liên khu 5, Tổng cục Chính trị, Bộ Tổng Tham mưu. Đại học Trắc địa,
+Chính trị Cao cấp, Trưởng phòng Nghiên cứu & Huấn luyện, Hành chánh Quản trị,
+Đào tạo, Hiệu trưởng Lớp Trung cấp Đo đạc & Bản đồ thuộc Cục Đo đạc & Bản
+đồ Nhà nước, Hiệu trưởng trường Trung cấp Đo đạc & Bản đồ 2, tác giả một số
+sách về Mẫu tự Quốc ngữ. Huân chương Chiến thắng hạng 3, Huân chương Chiến
+sĩ vẻ vang hạng 3, Huân chương Kháng chiến hạng 1, Huy hiệu 40, 50, 60 tuổi
+Đảng, Huy chương Vì sự nghiệp Tài nguyên & Môi trường Việt nam, vợ Phan
+thủy Phụng sanh 24/3 Kỷ mão (13/5/1939) tại Kỳ lừa, Lạng sơn, Văn công tỉnh
+Lạng sơn, Quân khu Đông bắc, dược tá Xí nghiệp Dược Yên bái, y sĩ Xưởng phim
+Truyền hình giải phóng (Hànội), Đài truyền hình Tp Hồ chí Minh, đại biểu HĐND
+phường, Huân chương Kháng chiến hạng 2, Huy chương Vì sự nghiệp Phát thanh
+& truyền hình Việt nam, lập nghiệp tại 629A Nguyễn Kiệm, P3, Q.Gò vấp,"
+H00391,H00308,Hồ Khương,Hồ Xuân Tòng,23-04-1929,,,28-06-1905,Nhơn Phúc,Nghĩa trang Tp Buôn Ma Thuột,Phan Thị Năm,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,"làm ruộng, Trung đội
+trưởng Vệ quốc quân thời chống Pháp, lái xe thời VNCH, Chủ nhiệm HTX mua
+bán P2, Buôn ma thuột, mất 2006, ngày kỵ 24/11, an táng tại nghĩa trang Tp Buôn
+ma thuột, vợ Phan thị Năm sanh Tân mùi (1931) tại Nhơn phúc, làm ruộng, buôn
+bán, lập nghiệp tại 1 Đoàn thị Điểm, Tp Buôn ma thuột"
+H00392,H00308,Hồ Khương,Hồ Thị Cúc,30-03-1931,,,,Nhơn Phúc,Nhơn Thọ,Hà Công Các,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,
+H00393,H00308,Hồ Khương,Hồ Thị Bão,24-09-1924,,,23-03-1928,Nhơn Phúc,Gò Chàm,,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,
+H00394,H00308,Hồ Khương,Hồ Thị Lang,31-03-1905,,,02-04-1905,Nhơn Phúc,Gò Chàm,,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,
+H00395,H00308,Hồ Khương,Vô Danh,,,,,Nhơn Phúc,,,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,
+H00396,H00308,Hồ Khương,Hồ Chưởng,13-11-1925,,,27-07-1927,Nhơn Phúc,Gò Chàm,,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,
+H00397,H00308,Hồ Khương,Hồ Thị Ban,18-04-1905,,,23-02-1954,"Cùng sơn, huyện Sơn hòa",Tuy Hòa,,Hồ Khương,Lưu Thị Hòa,X,Chi nhánh I Hồ Khương,
+H00398,H00385,Hồ Xuân Đào,Vô Danh,                              ,,,,,,,Hồ Xuân Đào,Đỗ Thị Bảy,XI,Chi nhánh I Hồ Khương,
+H00399,H00385,Hồ Xuân Đào,Hồ Xuân Hoàn,22-10-1936,,,,Nhơn Phúc,Buôn Ma Thuột,Trần Thị Thùy Hương,Hồ Xuân Đào,Đỗ Thị Bảy,XI,Chi nhánh I Hồ Khương,Kế toán Sở Lâm nghiệp Đắc lắc
+H00400,H00385,Hồ Xuân Đào,Hồ Xuân Thoan,07-08-1939,,,09-03-2009,Nhơn Phúc,"Q.12 Tp Hồ chí Minh,",Lâm Thị Phụng,Hồ Xuân Đào,Đỗ Thị Bảy,XI,Chi nhánh I Hồ Khương,"Đại
+úy QLVNCH, Quận trưởng Phù Cát thời VNCH, Kế toán Xí nghiệp Sửa chữa tàu
+biển tại Tp Hồ chí Minh"
+H00401,H00385,Hồ Xuân Đào,Hồ Xuân Phong,13-03-1942,,,,"Lạc Giao, Buôn Ma Thuột",,Lý Lệ Anh,Hồ Xuân Đào,Đỗ Thị Bảy,XI,Chi nhánh I Hồ Khương,"Kế toán Xí nghiệp thời VNCH, buôn bán"
+H00402,H00385,Hồ Xuân Đào,Hồ Thị Xuân Diễm,27-10-1943,,,,"Lạc Giao, Buôn Ma Thuột",,Nguyễn Phương,Hồ Xuân Đào,Đỗ Thị Bảy,XI,Chi nhánh I Hồ Khương,"buôn bán, chồng Nguyễn Phương sanh Canh ngọ (17/2/1930) tại Yên thế, Bắc giang, phóng viên Đài Phát thanh & Truyền hình Đắc lắc, lập nghiệp tại Buôn ma thuột"
+H00403,H00385,Hồ Xuân Đào,Hồ Xuân Đình,27-07-1947,,,,Nhơn Phúc,,Nguyễn Thị Lan Chi,Hồ Xuân Đào,Đỗ Thị Bảy,XI,Chi nhánh I Hồ Khương,"Trung ủy QLVNCH, vợ Nguyễn thị Lan Chi sanh 9/11 Nhâm thin (25/12/1952) tại
+Sóc trăng, buôn bản, lập nghiệp tại 183 Điện biên Phu, Buôn ma thuột"
+H00404,H00385,Hồ Xuân Đào,Hồ Xuân Huyên,21-05-1952,,,,Nhơn Phúc,,Đặng Thị Mỹ Hải,Hồ Xuân Đào,Đỗ Thị Bảy,XI,Chi nhánh I Hồ Khương,"lái xe, vợ Đặng thị Mỹ Hải sanh tại Qui nhơn, buôn bán, lập nghiệp tại 183 Điện biên
+Phủ, Buôn ma thuột sanh hạ"
+H00405,H00385,Hồ Xuân Đào,Hồ Thị Xuân Hường,21-01-1956,,,,Buôn Ma Thuột,,Lê Văn Thịnh,Hồ Xuân Đào,Đỗ Thị Bảy,XI,Chi nhánh I Hồ Khương,"buôn bán, chồng Lê văn Thinh sanh tại Thửa thiên Huê, nguyên giáo viên
+ngoại ngữ trường Cao đẳng Sư phạm Đắc lắc, lập nghiệp tại Buôn ma thuột"
+H00406,H00386,Hồ Xuân Hương,Hồ Xuân Tú,23-12-1936,,,07-07-1976,Nhơn Phúc,Gò Chàm,Nguyễn Thị Đào,Hồ Xuân Hương,Phan Thị Khẩu,XI,Chi nhánh I Hồ Khương,
+H00407,H00386,Hồ Xuân Hương,Hồ Thị Sanh Tài,01-07-1938,,,,Nhơn Phúc,,,Hồ Xuân Hương,Phan Thị Khẩu,XI,Chi nhánh I Hồ Khương,
+H00408,H00386,Hồ Xuân Hương,Hồ Thị Kim Thoa,01-01-1940,,,01-01-1940,Nhơn Phúc,,,Hồ Xuân Hương,Phan Thị Khẩu,XI,Chi nhánh I Hồ Khương,Mất 
+H00409,H00387,Hồ Xuân Đài,Hồ Thị Ngọc Lân,23-08-1944,,,02-12-2001,An Khê,An Khê,Võ Văn Thừa,Hồ Xuân Đài,Tăng Thị Cước,XI,Chi nhánh I Hồ Khương,"mất 2/12 Canh thìn (2001) an táng tại nghĩa trang An khê, chống Võ văn
+Thừa sanh 6/7 Mậu dần (30/8/1938) tại Cửu an. An khé. Cảnh sát trước 1975, làm
+ruộng, buôn bán, đại biểu HĐND thị trấn An khẻ, lập nghiệp tại 166 K.11 thị xã
+An khè"
+H00410,H00387,Hồ Xuân Đài,Hồ Xuân Đồng,02-05-1905,,,25-05-1905,Nhơn Phúc,"Tân Tụ, Xã Tân An, An Khê",Phan Thị Tư,Hồ Xuân Đài,Tăng Thị Cước,XI,Chi nhánh I Hồ Khương,"Hạ sĩ VNQLCH,
+mất Nhâm tỷ (1972) cải táng từ Phan rang về Tân tụ, xã Tân an, An khê năm 2010,
+vợ Phan thị Tư sanh Tân mão (1951) tại Tân tụ, làm ruộng, sanh hạ:"
+H00411,H00387,Hồ Xuân Đài,Hồ Thị Xuân Thu,10-05-1905,,,,An Khê,,Nguyễn Thanh Vân,Hồ Xuân Đài,Tăng Thị Cước,XI,Chi nhánh I Hồ Khương,"làm việc tại Cty
+Ăn uống An khẻ, công nhân quốc phòng thuộc Nhà khách 102 tỉnh đội Bình định,
+chồng Nguyễn thanh Vân sanh Bình thân (1956) tại xã Tân an, An khẽ, Đại học
+Quản trị kinh doanh, Thượng tá QĐNDVN, Trưởng trạm 102, huân chương Chien
+cong lập nghiệp tại Qui nhơn"
+H00412,H00387,Hồ Xuân Đài,Hồ Thị Xuân Tuyết,01-01-1960,,,01-01-1989,An Khê,An Khê,,Hồ Xuân Đài,Tăng Thị Cước,XI,Chi nhánh I Hồ Khương,"Trung học Nông nghiệp, làm việc tại UBND huyện An
+khê, mất Kỳ tỵ (1989) an táng tại nghĩa trang An khê"
+H00413,H00387,Hồ Xuân Đài,Hồ Thị Xuân Huệ,01-01-1963,,,,An Khê,,,Hồ Xuân Đài,Tăng Thị Cước,XI,Chi nhánh I Hồ Khương,
+H00414,H00387,Hồ Xuân Đài,Hồ Xuân Hùng,17-05-1905,,,,An Khê,,Phạm Thị Cẩm,Hồ Xuân Đài,Tăng Thị Cước,XI,Chi nhánh I Hồ Khương,"Đại học Văn hóa,
+Trưởng phòng Kinh doanh Cty Thiết bị & trường học Gia lai, có hai năm làm việc
+tại Chi nhánh NXB Giáo dục Tp Hồ chí Minh, vợ Phạm thị Cẩm sanh Kỷ dậu
+(1969) tại Nhơn phúc, nội trợ, lập nghiệp tại 40 Hùng vương Tp Pleiku"
+H00415,H00387,Hồ Xuân Đài,Hồ Xuân Dũng,19-05-1905,,,,An Khê,,Trần Thị Lệ,Hồ Xuân Đài,Tăng Thị Cước,XI,Chi nhánh I Hồ Khương,Buôn Bán
+H00416,H00388,Hồ Thị Khuê,Phạm Thị Vân,01-05-1905,,,,Nhơn Phúc,,Thị xã An Khê,Hồ Thị Khuê,Phạm Quá,XI,Chi nhánh I Hồ Khương,Tu sĩ Phật giáo tại chùa Ngọc Trung
+H00417,H00388,Hồ Thị Khuê,Phạm Văn Long,15-01-1958,,,,Nhơn Phúc,,Phủ Thị Minh Thệ,Hồ Thị Khuê,Phạm Quá,XI,Chi nhánh I Hồ Khương,
+H00418,H00388,Hồ Thị Khuê,Phạm Thị Xuân,12-05-1905,,,,Qui Nhơn,,,Hồ Thị Khuê,Phạm Quá,XI,Chi nhánh I Hồ Khương,
+H00419,H00388,Hồ Thị Khuê,Phạm Thị Hoa,15-05-1905,,,,Qui Nhơn,,,Hồ Thị Khuê,Phạm Quá,XI,Chi nhánh I Hồ Khương,
+H00420,H00389,Hồ Xuân Thiều,Hồ Thị Xuân Phương,02-05-1905,,,,Phước An,,Trần Đắc Trinh,Hồ Xuân Thiều,Trần Thị Tú Lan,XI,Chi nhánh I Hồ Khương,"buôn
+bán, chồng Trần đắc Trinh sanh Kỳ sửu (1949) tại Vĩnh quang, Vĩnh thạnh, Cảnh
+sát thời VNCH, làm ruộng, lập nghiệp tại Vĩnh quang, Vĩnh thạnh,"
+H00421,H00389,Hồ Xuân Thiều,Hồ Thị Xuân An,06-05-1905,,,,Phước An,,Mai Đức Thuận,Hồ Xuân Thiều,Trần Thị Tú Lan,XI,Chi nhánh I Hồ Khương,"làm việc tại
+Công an huyện An khê, Kế toán Trại Gia trung Mang giang, Đại học Công an,
+Thượng tá, Trưởng phòng Kế toán Sở Công an Gia lai, nghi hưu, Huân chương
+Chiến công, lập nghiệp tại 549/89A Nguyễn đình Chiểu, Q3, Tp Hồ chỉ Mỉnh,
+chồng Mai đức Thuận sanh Nhâm thìn (1952) tại Nam hà, Đại úy Công an, đã ly
+hôn"
+H00422,H00389,Hồ Xuân Thiều,Hồ Xuân Phước,01-01-1954,,,01-01-1954,An Khê,,,Hồ Xuân Thiều,Trần Thị Tú Lan,XI,Chi nhánh I Hồ Khương,
+H00423,H00389,Hồ Xuân Thiều,Hồ Xuân Thu,08-05-1905,,,,An Khê,,Trần Thị Châu Thi,Hồ Xuân Thiều,Trần Thị Tú Lan,XI,Chi nhánh I Hồ Khương,"Cao đẳng Sư phạm,
+giáo viên trường PTCS An khê và Song an, vợ Trần thị Châu Thi sanh Kỷ hợi
+(1959) tại An khê, nguyên giáo viên Mẫu giáo, buôn bản, lập nghiệp tại An khô"
+H00424,H00389,Hồ Xuân Thiều,Hồ Xuân Thuận,09-05-1905,,,,An Khê,,Lê Thị Ngọc,Hồ Xuân Thiều,Trần Thị Tú Lan,XI,Chi nhánh I Hồ Khương,"nguyên cán bộ
+Lâm trường, Trưởng Công an xã và Chủ tịch UBND xã Song an, vợ Lê thị Ngọc"
+H00425,H00389,Hồ Xuân Thiều,Hồ Xuân Thành,10-05-1905,,,,An Khê,,Nguyễn Thị Huệ,Hồ Xuân Thiều,Trần Thị Tú Lan,XI,Chi nhánh I Hồ Khương,"nguyên cán bộ
+Thuế vụ Pleiku, buôn bán, lập nghiệp tại Ea Hleo, Đắc lắc, vợ Nguyễn thị Huê
+sanh Kỷ hợi (1959) tại Diêu trị, Tuy phước, buôn bán,"
+H00426,H00389,Hồ Xuân Thiều,Hồ Thị Xuân Diệu,14-05-1905,,,,An Khê,,Trần Minh,Hồ Xuân Thiều,Trần Thị Tú Lan,XI,Chi nhánh I Hồ Khương,"Đại học Sư
+phạm, giáo viên trường THPT tại Pleiku, cán bộ quản lý giáo dục trường Đại học
+Bình dương, lập nghiệp tại Thủ dầu Một, chồng Trần Mình sanh Canh tý (1960) tại
+Quảng trị, Đại học Sư phạm, giáo viên trường THPT tại Pleiku, Giám đốc trung
+tâm ngoại ngữ Plei ku, Thạc sĩ ngoại ngữ, giảng viên trường Đại học Bình dương"
+H00427,H00389,Hồ Xuân Thiều,Hồ Thị Xuân Nguyệt,01-01-1962,,,01-01-1962,An Khê,,Lê Thanh Bình,Hồ Xuân Thiều,Trần Thị Tú Lan,XI,Chi nhánh I Hồ Khương,"Trung học Sư phạm, giáo viên trường Tiểu học tại Ankhê, chồng Lê thanh Bình
+sanh Kỳ hợi (1959) tại Quảng nam, Trung tá, Chính trị viên Tiểu đoàn Pháo
+QĐNDVN,"
+H00428,H00389,Hồ Xuân Thiều,Hồ Thị Xuân Thanh,10-05-1964,,,,An Khê,,,Hồ Xuân Thiều,Trần Thị Tú Lan,XI,Chi nhánh I Hồ Khương,
+H00429,H00389,Hồ Xuân Thiều,Hồ Thị Thanh Hà,18-05-1905,,,,An Khê,,Lê Đình Vinh,Hồ Xuân Thiều,Trần Thị Tú Lan,XI,Chi nhánh I Hồ Khương,"Trung học Thương
+mại, làm việc tại Cty XNK Kon tum, chồng Lê đình Vinh sanh Canh tý (1960) tại
+Cát hanh, Phù cát, Đại học Công an, Thương tá Trưởng phòng CSHS Sở Công an
+Kontum, Trưởng Công an huyện Konplong, lập nghiệp tại Tp Kontum"
+H00430,H00389,Hồ Xuân Thiều,Hồ Xuân Thái,21-05-1905,,,,An Khê,,Diệp Mỹ Liên,Hồ Xuân Thiều,Trần Thị Tú Lan,XI,Chi nhánh I Hồ Khương,"Đại học Y, làm
+việc tại Bệnh viện Pleiku, Cao học Y, làm việc tại Bệnh viện Biên hòa, Đồng nai,
+lập nghiệp tại Biên hòa, vợ Diệp mỹ Liên làm việc tại Cty Bảo Việt"
+H00431,H00390,Hồ Xuân Hạnh,Hồ Thủy Hoa,18-10-1963,,,,Hà Nội,,Châu Văn Mẫn,Hồ Xuân Hạnh,Phan Thủy Phụng,XI,Chi nhánh I Hồ Khương,"Trung học
+Thương mại, làm việc tại Cty Bách hóa số 1 Tp Hồ chí Minh, hiện là Đại lý Cty
+Viettel, chồng Châu văn Mẫn sanh Quý tỵ (1953) tại Q.1 Sải gòn, Đại học, giáo
+viên trường Cao đẳng Kinh tế Tp Hồ chí Minh, huy chương vì sự nghiệp hoạt động
+TNXP, huy chương vì sự nghiệp Công đoàn, huy chương vì sự nghiệp Giáo dục,
+mất năm Tân mão (6/2011), an táng tại nghĩa trang họ tộc Q12 tp Hồ chỉ Minh, lập
+nghiệp tại 629A Nguyễn Kiệm, P3, Q.Gò vấp"
+H00432,H00390,Hồ Xuân Hạnh,Hồ Xuân Phúc,02-05-1965,,,,Yên Bái,,"Vì Thị Ảnh Nguyệt, Nguyễn Thị Thanh Phương",Hồ Xuân Hạnh,Phan Thủy Phụng,XI,Chi nhánh I Hồ Khương,"Trung học
+Điện, làm việc tại Cty Điện Máy Tp Hồ chỉ Minh, nay kinh doanh vận tải, vợ Vì
+thị Ảnh Nguyệt sanh Quý mão (1966) tai Hà nội (đã ly hôn), Nguyễn thị thanh
+Phương sanh Bính thìn (1976) tại Thủ đức, thợ may, lập nghiệp tại P. Tam bình, Q.
+Thủ đức"
+H00433,H00391,Hồ Xuân Tòng,Hồ Thị Kim Hoa (Vui),20-06-1955,,,,Nhơn Phúc,,Lê Văn Minh,Hồ Xuân Tòng,Phan Thị Năm,XI,Chi nhánh I Hồ Khương,"thợ may, chồng Lê văn Mình sanh 9/2 Giáp ngọ (2/1/1955) tại Quảng ngãi,
+lái xe, lập nghiệp tại 38 Đoàn thị Điểm, Tp Buôn ma thuột"
+H00434,H00391,Hồ Xuân Tòng,Hồ Xuân Nam,02-02-1959,,,18-12-2005,Nhơn Phúc,,Vương Thị Thương,Hồ Xuân Tòng,Phan Thị Năm,XI,Chi nhánh I Hồ Khương,"phường đội phó sau 1975, mất 2005, ngày kỵ 18/12, vợ Vương thị Thương sanh
+Nhâm dần (1962) tại Phú yên, buôn bán, lập nghiệp tại 114 Lý thường Kiet Tp
+Buôn ma thuột"
+H00435,H00391,Hồ Xuân Tòng,Hồ Xuân Thủy,25-09-1960,,,19-11-2004,Buôn Ma Thuột,Buôn Ma Thuột,Hoàng Thị Minh Yến,Hồ Xuân Tòng,Phan Thị Năm,XI,Chi nhánh I Hồ Khương,"(Thanh) (con ông Tông) sanh 5/8 Canh tỷ (25/9/1960) tại Buôn ma
+thuột, làm việc tại Nông trường, mất 2004, ngày kỵ 19/11, an táng tại Đạt lý, vợ
+Hoàng thị minh Yến sanh 16/10 Quý mão (1963) tại Quảng ninh, buôn bán, lập
+nghiệp tại Đạt lý, Buôn ma thuột"
+H00436,H00391,Hồ Xuân Tòng,"Hồ
+Xuân Ngân",01-09-1963,,,,Buôn Ma Thuột,,Trần Thị Hiền,Hồ Xuân Tòng,Phan Thị Năm,XI,Chi nhánh I Hồ Khương,"(con ông Tông) sanh 14/7 Quý mão (1/9/1963) tại Buôn ma thuột,
+vợ Trần thị Hiền sanh Giáp thín (1964) tại Quảng ngãi, buồn bản, lập nghiệp tại 3
+Đoàn thị Điểm, Tp Buôn ma thuột"
+H00437,H00391,Hồ Xuân Tòng,Hồ Thị Kim Đạm,01-04-1965,,,,Buôn Ma Thuột,Buôn Ma Thuột,Trần Đình Phước,Hồ Xuân Tòng,Phan Thị Năm,XI,Chi nhánh I Hồ Khương,"(con ông Tông) sanh 3/2 Ất tỵ (1/4/1965) tại Buôn ma thuột,
+chồng Trần đình Phước sanh 17/2 Canh tý (2/2/1961) tại Buôn ma thuột, mất an
+táng tại Đạt lý"
+H00438,H00391,Hồ Xuân Tòng,Hồ Xuân Tiến,,,,,,,,Hồ Xuân Tòng,Phan Thị Năm,XI,Chi nhánh I Hồ Khương,
+H00439,H00391,Hồ Xuân Tòng,Hồ Cao Nhân,08-07-1968,,,,Buôn Ma Thuột,,Phạm Thị Thu Nga,Hồ Xuân Tòng,Phan Thị Năm,XI,Chi nhánh I Hồ Khương,"(con ông Tòng) sanh 13/6 Mậu thân (8/7/1968) tại Buôn ma thuột,
+vợ Phạm thị thu Nga sanh Mậu thân (1968) tại Buôn ma thuột, thợ may, lập nghiệp
+tại Buôn ma thuột,"
+H00440,H00391,Hồ Xuân Tòng,Hồ Cao Kiệt,08-07-1968,,,,Buôn Ma Thuột,,,Hồ Xuân Tòng,Phan Thị Năm,XI,Chi nhánh I Hồ Khương,
+H00441,H00391,Hồ Xuân Tòng,"Hồ Cao
+Tuấn",01-05-1972,,,,Buôn Ma Thuột,,Lê Thị Gái,Hồ Xuân Tòng,Phan Thị Năm,XI,Chi nhánh I Hồ Khương,"(con ông Tông) sanh 8/3 Nhâm tỷ (1/5/1972) tại Buôn ma thuột, làm thợ, vợ Lê thị Gái sanh 20/8 Quý sửu (16/9/1973) tại Quang ngãi "
+H00442,H00391,Hồ Xuân Tòng,Hồ Cao Bình,21-01-1975,,,,Buôn Ma Thuột,,Nguyễn Thị Bảo Lộc,Hồ Xuân Tòng,Phan Thị Năm,XI,Chi nhánh I Hồ Khương,"(con ông Tông) sanh 12/12 Át mão (21/1/1975) tại Buôn ma thuột,
+làm thợ, vợ Nguyễn thị Bảo Lộc sanh 23/1 Canh thân (9/3/1980) tại Quảng ngãi,
+lập nghiệp tại Buôn ma thuộc"
+H00443,H00399,Hồ Xuân Hoàn,Hồ Thị Xuân Trang,07-01-1967,,,,Buôn Ma Thuột,,,Hồ Xuân Hoàn,Trần Thị Thùy Hương,XII,Chi nhánh I Hồ Khương,"Đại học Tài chánh, làm việc tại Kho Bạc Nhà nước Đắc lắc"
+H00444,H00399,Hồ Xuân Hoàn,Hồ Thị Thu Nguyệt,05-09-1968,,,,Buôn Ma Thuột,,Nguyễn Quốc Hồng,Hồ Xuân Hoàn,Trần Thị Thùy Hương,XII,Chi nhánh I Hồ Khương,"(con ông Hoàn, cháu nội ông Đào) sanh 13/7 Mậu thân
+(5/9/1968) tại Buôn ma thuột, Đại học Tài chánh, làm việc tại Cty Đầu tư Kỹ thuật
+Xuất nhập khẩu Đắc lắc tại Tp Hồ chí Minh, chồng Nguyễn quốc Hồng sanh 29/12
+Bính ngọ (29/1/1967) quê Gia lộc, Hải dương, Đại học Cơ khí, làm việc tại Cty
+Vinamilk, lập nghiệp tại 679 C2/29 Nguyễn văn Công, P.3, Gò vấp,"
+H00445,H00399,Hồ Xuân Hoàn,Hồ Thị Kim Chi,21-02-1970,,,,Buôn Ma Thuột,,Nguyên Đăng Giáp,Hồ Xuân Hoàn,Trần Thị Thùy Hương,XII,Chi nhánh I Hồ Khương,"(con ông Hoàn, chảu nội ông Đào) sanh 16/1 Canh tuất
+(21/2/1970) tại Buôn ma thuột, Đại học Y, làm việc tại Bệnh viện Đa khoa Đắc lắc,
+chồng Nguyễn đăng Giáp sanh 4/8 Kỷ dậu (15/9/1969) tại Phủ lộc, Thừa thiên
+Huế, Đại học Y, làm việc tại Bệnh viện Đa khoa Đắc lắc, lập nghiệp tại Buon ma
+thuột"
+H00446,H00399,Hồ Xuân Hoàn,Hồ Thị Ngọc Diệp,18-06-1972,,,,Buôn Ma Thuột,,Phạm Ngọc Phan,Hồ Xuân Hoàn,Trần Thị Thùy Hương,XII,Chi nhánh I Hồ Khương,"(con ông Hoàn, cháu nội ông Đào) sanh 8/5 Nhâm tỷ
+(18/6/1972) tại Buôn ma thuột, Đại học Tài chánh, chồng Phạm ngọc Phan sanh
+Quý Sửu (1973) tại Hà nội, Đại học Tài chánh lap nghiep tại Gò Vấp"
+H00447,H00399,Hồ Xuân Hoàn,Hồ Nam Huân,26-08-1973,,,,Buôn Ma Thuột,,,Hồ Xuân Hoàn,Trần Thị Thùy Hương,XII,Chi nhánh I Hồ Khương,"Đại học Kinh tế, làm việc tại Đắc Nông"
+H00448,H00399,Hồ Xuân Hoàn,Hồ Thị Vân Kiều,06-04-1975,,,,Buôn Ma Thuột,,,Hồ Xuân Hoàn,Trần Thị Thùy Hương,XII,Chi nhánh I Hồ Khương,xét nghiệm Y tại Buôn ma thuột
+H00449,H00399,Hồ Xuân Hoàn,Hồ Thị Thanh Xuân,16-08-1977,,,,Buôn Ma Thuột,,,Hồ Xuân Hoàn,Trần Thị Thùy Hương,XII,Chi nhánh I Hồ Khương,Đại học Tài chánh
+H00450,H00400,Hồ Xuân Thoan,Hồ Nam Chỉnh,03-01-1975,,,,Phú Nhuận,,Hoàng Ánh Tuyết,Hồ Xuân Thoan,Lâm Thị Phụng,XII,Chi nhánh I Hồ Khương,"(con ông Thoan, châu nội ông Đảo) sanh 22/11 Canh dần
+(3/1/1975) tại Phú nhuận, Đại học Bách khoa, mở Cty dịch vụ Tin học tại Phú
+Nhuân, vợ Hoàng Ánh Tuyết sanh Đinh Tỵ (1977) tại Q.12"
+H00451,H00400,Hồ Xuân Thoan,Hồ Thị Thúy Hà,09-03-1983,,,,Phú Nhuận,,,Hồ Xuân Thoan,Lâm Thị Phụng,XII,Chi nhánh I Hồ Khương,
+H00452,H00401,Hồ Xuân Phong,Hồ Thị Xuân Thư,,,,,Buôn Ma Thuột,,,Hồ Xuân Phong,Lý Lệ Anh,XII,Chi nhánh I Hồ Khương,
+H00453,H00401,Hồ Xuân Phong,Hồ Xuân Trung,,,,,Buôn Ma Thuột,,,Hồ Xuân Phong,Lý Lệ Anh,XII,Chi nhánh I Hồ Khương,
+H00454,H00401,Hồ Xuân Phong,Hồ Thị Xuân Nghi,20-11-1989,,,,Buôn Ma Thuột,,,Hồ Xuân Phong,Lý Lệ Anh,XII,Chi nhánh I Hồ Khương,
+H00455,H00401,Hồ Xuân Phong,Hồ Xuân Trường,26-12-1991,,,,Buôn Ma Thuột,,,Hồ Xuân Phong,Lý Lệ Anh,XII,Chi nhánh I Hồ Khương,
+H00456,H00403,Hồ Xuân Đình,Hồ Thị Ngưu Miên,13-08-1979,,,,Buôn Ma Thuột,,,Hồ Xuân Đình,Nguyễn Thị Lan Chi,XII,Chi nhánh I Hồ Khương,
+H00457,H00403,Hồ Xuân Đình,Hồ Thị Cẩm Uyên,26-03-1981,,,,Buôn Ma Thuột,,,Hồ Xuân Đình,Nguyễn Thị Lan Chi,XII,Chi nhánh I Hồ Khương,
+H00458,H00403,Hồ Xuân Đình,Hồ Thị Quyên Quyên,09-09-1982,,,,Buôn Ma Thuột,,,Hồ Xuân Đình,Nguyễn Thị Lan Chi,XII,Chi nhánh I Hồ Khương,
+H00459,H00403,Hồ Xuân Đình,Hồ Thị Hoàng Chiến,01-01-1983,,,01-01-1984,Buôn Ma Thuột,Buôn Ma Thuột,,Hồ Xuân Đình,Nguyễn Thị Lan Chi,XII,Chi nhánh I Hồ Khương,
+H00460,H00403,Hồ Xuân Đình,Hồ Thị Quy Nha,22-03-1985,,,,Buôn Ma Thuột,,,Hồ Xuân Đình,Nguyễn Thị Lan Chi,XII,Chi nhánh I Hồ Khương,
+H00461,H00403,Hồ Xuân Đình,Hồ Thị Hạnh Nguyên,20-10-1986,,,,Buôn Ma Thuột,,,Hồ Xuân Đình,Nguyễn Thị Lan Chi,XII,Chi nhánh I Hồ Khương,
+H00462,H00403,Hồ Xuân Đình,Hồ Hải Đường,21-06-1989,,,,Buôn Ma Thuột,,,Hồ Xuân Đình,Nguyễn Thị Lan Chi,XII,Chi nhánh I Hồ Khương,
+H00463,H00404,Hồ Xuân Huyên,Hồ Thị Xuân,02-04-1979,,,,Buôn Ma Thuột,,,Hồ Xuân Huyên,Đặng Thị Mỹ Hải,XII,Chi nhánh I Hồ Khương,
+H00464,H00404,Hồ Xuân Huyên,Hồ Quang Huy,09-02-1979,,,,Buôn Ma Thuột,,,Hồ Xuân Huyên,Đặng Thị Mỹ Hải,XII,Chi nhánh I Hồ Khương,
+H00465,H00404,Hồ Xuân Huyên,Hồ Viết Hoàng,06-08-1981,,,,Buôn Ma Thuột,,,Hồ Xuân Huyên,Đặng Thị Mỹ Hải,XII,Chi nhánh I Hồ Khương,
+H00466,H00404,Hồ Xuân Huyên,Hồ Xuân Lĩnh,24-01-1984,,,,Buôn Ma Thuột,,,Hồ Xuân Huyên,Đặng Thị Mỹ Hải,XII,Chi nhánh I Hồ Khương,
+H00467,H00404,Hồ Xuân Huyên,Hồ Thị Như Lan,30-03-1986,,,,Buôn Ma Thuột,,,Hồ Xuân Huyên,Đặng Thị Mỹ Hải,XII,Chi nhánh I Hồ Khương,
+H00468,H00404,Hồ Xuân Huyên,Hồ Thị Xuân Hồng,30-05-1988,,,,Buôn Ma Thuột,,,Hồ Xuân Huyên,Đặng Thị Mỹ Hải,XII,Chi nhánh I Hồ Khương,
+H00469,H00405,Hồ Thị Xuân Hường,Lê Huy Vũ,25-05-1974,,,,Buôn Ma Thuột,,Võ Thị Bích Hiền,Hồ Thị Xuân Hường,Lê Văn Thịnh,XII,Chi nhánh I Hồ Khương,
+H00470,H00405,Hồ Thị Xuân Hường,Lê Huy Quang,22-10-1976,,,,Buôn Ma Thuột,,,Hồ Thị Xuân Hường,Lê Văn Thịnh,XII,Chi nhánh I Hồ Khương,
+H00471,H00405,Hồ Thị Xuân Hường,Lê Thị Diễm Phương,11-06-1979,,,,Buôn Ma Thuột,,Phạm Thanh Tùng,Hồ Thị Xuân Hường,Lê Văn Thịnh,XII,Chi nhánh I Hồ Khương,"(con bà Hường, cháu ngoại ông Đào) sanh Kỷ mùi
+(11/6/1979) tại Buôn ma thuột, Đại học, chống Phạm thanh Tùng định cư ở Úc"
+H00472,H00405,Hồ Thị Xuân Hường,Lê Thị Diễm Châu,21-04-1982,,,,Buôn Ma Thuột,,Đoàn Mạnh Tuấn Anh,Hồ Thị Xuân Hường,Lê Văn Thịnh,XII,Chi nhánh I Hồ Khương,"(con bà Hường, cháu ngoại ông Đào) sanh Nhâm tuất
+(21/4/1982) tại Buôn ma thuột, Đại học, làm việc tại Cty Bia Đắc lắc, chồng Đoàn
+mạnh tuấn Anh Đại học,"
+H00473,H00406,Hồ Xuân Tú,Hồ Kim Diệp,18-01-1963,,,,Nhơn Phúc,,,Hồ Xuân Tú,Nguyễn Thị Đào,XII,Chi nhánh I Hồ Khương,"sanh 4/1 Quý mão (18/1/1963) tại Nhơn Phúc, Đại học Sư phạm, Cử nhân Quản trị kinh doanh, Cử nhân Luật, Hiệu trưởng trường THCS Nhơn phúc có hai năm dạy ở trường Nhơn Tân"
+H00474,H00406,Hồ Xuân Tú,Hồ Kim Thành,01-01-1966,,,,Nhơn Phúc,,Phạm Thị Kim Hà,Hồ Xuân Tú,Nguyễn Thị Đào,XII,Chi nhánh I Hồ Khương,"(con ông Tủ, cháu nội ông Hương) sanh Bính ngọ (1966) tại Nhơn
+phúc, làm việc tại Thủy lợi Đắc lắc, vợ Phạm thị kim Hà sanh Mậu thân (1968) taj
+Buôn ma thuột, lập nghiệp tại Buôn ma thuột"
+H00475,H00406,Hồ Xuân Tú,Hồ Thị Thùy Trang,07-02-1969,,,,Nhơn Phúc,,Phan Thanh Hùng,Hồ Xuân Tú,Nguyễn Thị Đào,XII,Chi nhánh I Hồ Khương,"(con ông Tú, cháu nội ông Hương) sanh 21/12 Kỷ dậu
+(7/2/1969) tại Nhơn phúc, chồng Phan thanh Hùng sanh Ất tỵ (1965) tại Nhơn
+phúc, lập nghiệp tại Kontum, sanh hạ: Đời thứ XIII: Phan đình Tùng sanh 1995 tại
+Nhơn phúc, Phan Hồ minh Thắng sanh Định sửu (1998) tại Nhơn phúc"
+H00476,H00406,Hồ Xuân Tú,Hồ Kim Đầu,09-09-1971,,,,Nhơn Phúc,,Nguyễn Thị Anh,Hồ Xuân Tú,Nguyễn Thị Đào,XII,Chi nhánh I Hồ Khương,"(con ông Tú, cháu nội ông Hương) sanh 20/7 Tân hợi (1971) tại
+Nhơn phúc, lái xe, vợ Nguyễn thị Anh sanh 1972 tại Tân kiều xã Nhơn Mỹ, làm
+ruộng, thợ may lập nghiệp tại Nhơn phúc"
+H00477,H00406,Hồ Xuân Tú,Hồ Kim Giác,13-11-1973,,,,Nhơn Phúc,,Nguyễn Thị Thanh Phương,Hồ Xuân Tú,Nguyễn Thị Đào,XII,Chi nhánh I Hồ Khương,"(con ông Tú, cháu nội ông Hương) sanh 19/10 Quý suu (13/11/1973)
+tại Nhơn phúc, kinh doanh vận tải, vợ Nguyễn thị thanh Phương sanh 1973 tại
+Bình phước, buôn bán, lập nghiệp tại Thủ dầu Một, Bình dương"
+H00478,H00409,Hồ Thị Ngọc Lân,Võ Thị Kim Phụng,04-07-1963,,,,An Khê,,Trần Nhơn,Hồ Thị Ngọc Lân,Võ Văn Thừa,XII,Chi nhánh I Hồ Khương,"(con bà Lân, cháu ngoại ông Đài) sanh 14/5 Quý mão
+(4/7/1963) tại An khê, thơ may, chồng Trần Nhơn sanh 7/8 Quý mão (24/9/1963)
+tại xã Tân an, An khê, buôn bản, lập nghiệp tại 164 K11, An khê"
+H00479,H00409,Hồ Thị Ngọc Lân,Võ Thanh Tuấn,22-06-1966,,,,An Khê,,,Hồ Thị Ngọc Lân,Võ Văn Thừa,XII,Chi nhánh I Hồ Khương,"(con bà Lân, cháu ngoại ông Đài) sanh 4/5 Bình ngọ (22/6/1966)
+tại An khê, Trưởng phòng Tư pháp huyện An khê, Chánh văn phòng UBND huyện
+Đắc pơ, vợ lập nghiệp tại 164 Quang trung, Thị xã An khô,"
+H00480,H00409,Hồ Thị Ngọc Lân,Võ Thanh Kiệt,17-02-1970,,,,An Khê,,,Hồ Thị Ngọc Lân,Võ Văn Thừa,XII,Chi nhánh I Hồ Khương,
+H00481,H00409,Hồ Thị Ngọc Lân,Võ Thanh Long,28-05-1974,,,,An Khê,,,Hồ Thị Ngọc Lân,Võ Văn Thừa,XII,Chi nhánh I Hồ Khương,"(con bà Lân, cháu ngoại ông Đài) sanh 7/4 Giáp dần (28/5/1974)
+tại An khê, buôn bán,"
+H00482,H00409,Hồ Thị Ngọc Lân,Võ Thanh Bảo,10-03-1978,,,,An Khê,,,Hồ Thị Ngọc Lân,Võ Văn Thừa,XII,Chi nhánh I Hồ Khương,chủ tịch UBND phường
+H00483,H00410,Hồ Xuân Đồng,Hồ Thị Xuân Thắm,01-01-1973,,,,An Khê,,Phạm Văn Dũng,Hồ Xuân Đồng,Phan Thị Tư,XII,Chi nhánh I Hồ Khương,"(con ông Đồng, cháu nội ông Đài) sanh Quý sửu (1973) tại An
+khê, làm ruộng, chồng Phạm văn Dũng sanh 1972 tại Tân tự, làm ruộng, lập nghiệp
+tại Tân tụ, xã Tân an, An khê"
+H00484,H00420,Hồ Thị Xuân Phương,Trần Đắc Trung,01-01-1971,,,,An Khê,,,Hồ Thị Xuân Phương,Trần Đắc Trinh,XII,Chi nhánh I Hồ Khương,"(con bà Phương, cháu ngoại ông Thiều) sanh Tân hợi (1971) tại
+An khẽ, công nhân Điện cơ, lập nghiệp tại 799 Trần hưng Đạo Tp Qui nhơn"
+H00485,H00420,Hồ Thị Xuân Phương,Trần Thị Đắc Bình,01-01-1973,,,,Vĩnh Quang,,,Hồ Thị Xuân Phương,Trần Đắc Trinh,XII,Chi nhánh I Hồ Khương,"(con bà Phương, cháu ngoại ông Thiều) sanh Quý sửu (1973),
+thợ may, lập nghiệp tại Vĩnh quang, Vĩnh thạnh, chồng"
+H00486,H00420,Hồ Thị Xuân Phương,Trần Đắc Thứ,01-01-1975,,,,Vĩnh Quang,,,Hồ Thị Xuân Phương,Trần Đắc Trinh,XII,Chi nhánh I Hồ Khương,"(con bà Phương, cháu ngoại ông Thiều) sanh Ất mão (1975) tại
+Vĩnh quang, công nhân cơ khí"
+H00487,H00420,Hồ Thị Xuân Phương,Trần Thị Đắc Thịnh,01-01-1977,,,,Vĩnh Quang,,,Hồ Thị Xuân Phương,Trần Đắc Trinh,XII,Chi nhánh I Hồ Khương,"(con bà Phương, cháu ngoại ông Thiều) sanh Đinh tỵ (1977)
+tại Vĩnh quang, Đại học Sư phạm, làm việc tại Bà rịa Vũng tảu"
+H00488,H00420,Hồ Thị Xuân Phương,Trần Đắc Thắng,01-01-1980,,,,Vĩnh Quang,,,Hồ Thị Xuân Phương,Trần Đắc Trinh,XII,Chi nhánh I Hồ Khương,"(con bà Phương, cháu ngoại ông Thiều) sanh Nhâm tuất (1982)
+tại Vĩnh quang vợ"
+H00489,H00420,Hồ Thị Xuân Phương,Trần Đắc Thông,01-01-1982,,,,Vĩnh Quang,,,Hồ Thị Xuân Phương,Trần Đắc Trinh,XII,Chi nhánh I Hồ Khương,
+H00490,H00420,Hồ Thị Xuân Phương,Trần Đắc Thiện,01-01-1984,,,,Vĩnh Quang,,,Hồ Thị Xuân Phương,Trần Đắc Trinh,XII,Chi nhánh I Hồ Khương,
+H00491,H00420,Hồ Thị Xuân Phương,Trần Thị Đắc Tiến,01-01-1988,,,,Vĩnh Quang,,,Hồ Thị Xuân Phương,Trần Đắc Trinh,XII,Chi nhánh I Hồ Khương,
+H00492,H00420,Hồ Thị Xuân Phương,Trần Đắc Thụ,01-01-1990,,,,Vĩnh Quang,,,Hồ Thị Xuân Phương,Trần Đắc Trinh,XII,Chi nhánh I Hồ Khương,
+H00493,H00246,Hồ Thị Thu Nguyệt,Nguyễn Thị Ánh Vi,01-01-1993,,,,Gò Vấp,,,Nguyễn Quốc Hồng,Hồ Thị Thu Nguyệt,XIII,Chi nhánh I Hồ Khương,
+H00494,H00246,Hồ Thị Thu Nguyệt,Nguyễn Thị Anh Tâm,01-01-1995,,,,Gò Vấp,,,Nguyễn Quốc Hồng,Hồ Thị Thu Nguyệt,XIII,Chi nhánh I Hồ Khương,
+H00495,H00446,Hồ Thị Ngọc Diệp,Phạm Ngọc Minh Ảnh,01-01-2000,,,,Tp Hồ Chí Minh,,,Phạm Ngọc Phan,Hồ Thị Ngọc Diệp,XIII,Chi nhánh I Hồ Khương,
+H00496,H00446,Hồ Thị Ngọc Diệp,Phạm Ngọc Duy Anh,01-01-2002,,,,Tp Hồ Chí Minh,,,Phạm Ngọc Phan,Hồ Thị Ngọc Diệp,XIII,Chi nhánh I Hồ Khương,
+H00497,H00450,Hồ Nam Chỉnh,Hồ Thanh Trúc,01-01-2009,,,,Phú Nhuận,,,Hồ Nam Chỉnh,Hoàng Ánh Tuyết,XIII,Chi nhánh I Hồ Khương,
+H00498,H00474,Hồ Kim Thành,Hồ Thanh Tùng,01-01-1995,,,,Buôn Ma Thuột,,,Hồ Kim Thành,Phạm Thị Kim Hà,XIII,Chi nhánh I Hồ Khương,
+H00499,H00474,Hồ Kim Thành,Hồ Thị Như Hồng,01-01-2004,,,,Buôn Ma Thuột,,,Hồ Kim Thành,Phạm Thị Kim Hà,XIII,Chi nhánh I Hồ Khương,
+H00500,H00475,Hồ Thị Thùy Trang,Phan Đình Tùng,01-01-1995,,,,Nhơn Phúc,,,Phan Thanh Hùng,Hồ Thị Thùy Trang,XIII,Chi nhánh I Hồ Khương,
+H00501,H00475,Hồ Thị Thùy Trang,Phan Hồ Minh Thắng,01-01-1998,,,,Nhơn Phúc,,,Phan Thanh Hùng,Hồ Thị Thùy Trang,XIII,Chi nhánh I Hồ Khương,
+H00502,H00476,Hồ Kim Đầu,Hồ Thị Minh Tâm,01-01-1996,,,,Nhơn Phúc,,,Hồ Kim Đầu,Nguyễn Thị Anh,XIII,Chi nhánh I Hồ Khương,
+H00503,H00476,Hồ Kim Đầu,Hồ Thị Minh Hiếu,01-01-2003,,,,Nhơn Phúc,,,Hồ Kim Đầu,Nguyễn Thị Anh,XIII,Chi nhánh I Hồ Khương,
+H00504,H00476,Hồ Kim Đầu,Hồ Minh Trí,01-01-2005,,,,Nhơn Phúc,,,Hồ Kim Đầu,Nguyễn Thị Anh,XIII,Chi nhánh I Hồ Khương,
+H00505,H00477,Hồ Kim Giác,Hồ Thị Minh Trúc,,,,,"Thủ Dầu Một, Bình Dương",,,Hồ Kim Giác,Nguyễn Thị Thanh Phương,XIII,Chi nhánh I Hồ Khương,
+H00506,H00477,Hồ Kim Giác,Hồ Nguyễn Minh Nhật,,,,,"Thủ Dầu Một, Bình Dương",,,Hồ Kim Giác,Nguyễn Thị Thanh Phương,XIII,Chi nhánh I Hồ Khương,
+H00507,H00483,Hồ Thị Xuân Thắm,Phạm Thị Huyền Trang,01-01-1994,,,,"Tân Tụ, Xã Tân An, An Khê",,,Phạm Văn Dũng,Hồ Thị Xuân Thắm,XIII,Chi nhánh I Hồ Khương,
+H00508,H00483,Hồ Thị Xuân Thắm,Phạm Minh Tiến,01-01-1998,,,,"Tân Tụ, Xã Tân An, An Khê",,,Phạm Văn Dũng,Hồ Thị Xuân Thắm,XIII,Chi nhánh I Hồ Khương,
+H00509,H00483,Hồ Thị Xuân Thắm,Phạm Minh Tài,01-01-2002,,,,"Tân Tụ, Xã Tân An, An Khê",,,Phạm Văn Dũng,Hồ Thị Xuân Thắm,XIII,Chi nhánh I Hồ Khương,
+H00510,H00310,Hồ Vinh,Hồ Thị Thạnh,,,,,Nhơn Phúc,,,Hồ Vinh,Trần Thị Xê,X,Chi nhánh II Hồ Vinh,
+H00511,H00310,Hồ Vinh,Hồ Tấn Liên,01-01-1923,,,25-01-1984,Nhơn Phúc,Thông Tây Hội,Nguyễn Thị Thậm,Hồ Vinh,Trần Thị Xê,X,Chi nhánh II Hồ Vinh,"giáo viên Tiểu học, Kế toán xí nghiệp, Kế toán hậu cần VNQLCH, chủ nhiệm HTX mua bán phường Thông tây Hội, mất 25/12 Giáp tý (25/1/1984) an táng tại nghĩa trang Thông tây Hội, sau nghĩa trang bị qui hoạch nên hỏa táng, vợ Nguyễn thị Thậm sanh Bính Dần (1926) tại Nhơn Phúc, buôn bán, lập nghiệp tại Buôn ma Thuột và 13/6 Phan văn Trị, Q. Gò Vấp, mất và an táng tại nghĩa trang Q.12, tp Hồ chí Minh"
+H00512,H00310,Hồ Vinh,Hồ Tấn Pha,01/01/1926,,,05-06-1932,Nhơn Phúc,Gò Chàm,,Hồ Vinh,Trần Thị Xê,X,Chi nhánh II Hồ Vinh,
+H00513,H00310,Hồ Vinh,Hồ Tấn Ba,01/01/1929,,,03-02-1988,Nhơn Phúc,Lương Can,Nguyễn Thị Cúc,Hồ Vinh,Trần Thị Xê,X,Chi nhánh II Hồ Vinh,"buồn bản tại Pleiku, lập nghiệp tại Lương Can xã Nhơn sơn, Ninh sơn, Ninh Thuận, vận tải xe lam, mất 16/12 Đinh Mão (3/2/1988) an táng tại Lương Can, vợ Nguyễn thị Cúc sanh 15/3 Ất Hợi (17/4/1935) tại Nhơn Mỹ, nội trợ, lập nghiệp tại Lương Can"
+H00514,H00310,Hồ Vinh,Hồ Thị Tồn,01/01/1931,,,,Phụ Ngọc,Phụ Ngọc,Phạm Hiên,Hồ Vinh,Nguyễn Thị Lý,X,Chi nhánh II Hồ Vinh,
+H00515,H00511,Hồ Tấn Liên,Hồ Thị Liễu,01-01-1944,,,,Nhơn Phúc,,,Hồ Tấn Liên,Nguyễn Thị Thậm,XI,Chi nhánh II Hồ Vinh,"tại Nhơn phúc, thợ may. Chồng Lê trọng Tỉnh sanh Nhâm Thìn (1928) tại Hà Nam, lái xe VNQLCH, vợ chồng định cư tại Copenhagen, Đan Mạch."
+H00516,H00511,Hồ Tấn Liên,Hồ Thị Trâm,01-01-1946,,,,Nhơn Phúc,,,Hồ Tấn Liên,Nguyễn Thị Thậm,XI,Chi nhánh II Hồ Vinh,"giáo viên Tiểu học tại Bình Long và Gò Vấp, lập nghiệp tại Gò Vấp"
+H00517,H00511,Hồ Tấn Liên,Hồ Thị Dung,01-01-1952,,,,Nhơn Phúc,,,Hồ Tấn Liên,Nguyễn Thị Thậm,XI,Chi nhánh II Hồ Vinh,
+H00518,H00511,Hồ Tấn Liên,Hồ Tấn Bửu,01-01-1958,,,,Buôn Ma Thuột,,Bùi Thị Thảo,Hồ Tấn Liên,Nguyễn Thị Thậm,XI,Chi nhánh II Hồ Vinh,"Buôn ma Thuột, lái xe, vợ Bùi thị Thảo sanh Tân Sửu (1961) tại Sài Gòn, y tá làm việc tại Bưu điện Tp. Hồ chí Minh, lập nghiệp tại 13/6 Phan văn Trị, Gò vấp"
+H00519,H00511,Hồ Tấn Liên,Hồ Thị Mộng Điệp,01-01-1960,,,,Buôn Ma Thuột,,Trần Văn Ân,Hồ Tấn Liên,Nguyễn Thị Thậm,XI,Chi nhánh II Hồ Vinh,"tại Buôn ma Thuột, Cao đẳng Sư phạm, giáo viên PTCS, chồng Trần văn Ân sanh Đinh Dậu (1957) tại Gò vấp, Cao đẳng Sư phạm, giáo viên PTCS, lập nghiệp tại Gò Vấp"
+H00520,H00511,Hồ Tấn Liên,Hồ Thị Mộng Thu,01-01-1961,,,,Buôn Ma Thuột,,Nguyễn Đức Huy,Hồ Tấn Liên,Nguyễn Thị Thậm,XI,Chi nhánh II Hồ Vinh,"Đại học Ngân hàng, làm việc tại Ngân hàng Công thương Gò Vấp, chồng Nguyễn đức Huy sanh Nhâm Dần (1962) cán bộ kỷ thuật Đài Truyền hình Tp Hồ chí Minh lập nghiệp tại Gò Vấp"
+H00521,H00511,Hồ Tấn Liên,Hồ Thị Tường Linh,01-01-1964,,,,Gò Vấp,,,Hồ Tấn Liên,Nguyễn Thị Thậm,XI,Chi nhánh II Hồ Vinh,"Đại học Ngân hàng, làm việc tại Ngân hàng Công thương Gò Vấp"
+H00522,H00513,Hồ Tấn Ba,Hồ Thị Bích Mai,01-01-1956,,,,Nhơn Phúc,,Hoàng Hà,Hồ Tấn Ba,Nguyễn Thị Cúc,XI,Chi nhánh II Hồ Vinh,"tại Nhơn Phúc, làm ruộng, chồng Hoàng Hà sanh Bính Tuất (1946) tại Hạnh trí, xã Quảng sơn, Ninh sơn, Ninh thuận, làm ruộng, lập nghiệp tại Lương Can"
+H00523,H00513,Hồ Tấn Ba,Hồ Thị Bích Lan,01-01-1958,,,,Nhơn Phúc,,Lê Viết Lợi,Hồ Tấn Ba,Nguyễn Thị Cúc,XI,Chi nhánh II Hồ Vinh,"Mậu Tý (1958) tại Nhơn Phúc, làm rượng. lập nghiệp tại Lương Can, chồng Lê viết Lợi sanh tại Lương Can, mất và an táng tại Lương Can"
+H00524,H00513,Hồ Tấn Ba,Hồ Thị Bích Yến,01-01-1965,,,,Nhơn Phúc,,,Hồ Tấn Ba,Nguyễn Thị Cúc,XI,Chi nhánh II Hồ Vinh,"lập nghiệp tại Lương Can Hồ tấn Thanh sanh Mậu Thân (1968) tại Pleiku, làm ruộng, lập nghiệp tại Lương Can, vợ"
+H00525,H00513,Hồ Tấn Ba,Hồ Tấn Thanh,01-01-1968,,,,Pleiku,,,Hồ Tấn Ba,Nguyễn Thị Cúc,XI,Chi nhánh II Hồ Vinh,
+H00526,H00513,Hồ Tấn Ba,Hồ Thị Bích Xuân,01-01-1970,,,,Pleiku,,,Hồ Tấn Ba,Nguyễn Thị Cúc,XI,Chi nhánh II Hồ Vinh,
+H00527,H00513,Hồ Tấn Ba,Hồ Tấn Quang,01-01-1972,,,,Pleiku,,,Hồ Tấn Ba,Nguyễn Thị Cúc,XI,Chi nhánh II Hồ Vinh,
+H00528,H00513,Hồ Tấn Ba,Hồ Thị Bích Tuyết,01-01-1975,,,,Lương Can,,,Hồ Tấn Ba,Nguyễn Thị Cúc,XI,Chi nhánh II Hồ Vinh,"Thợ may, làm việc tại Đồng Nai"
+H00529,H00513,Hồ Tấn Ba,Hồ Thị Bích Tâm,01-01-1977,,,,Lương Can,,,Hồ Tấn Ba,Nguyễn Thị Cúc,XI,Chi nhánh II Hồ Vinh,
+H00530,H00514,Hồ Thị Tồn,Phạm Thị Đồn,01-01-1932,,,,Phụ Ngọc,Buôn Ma Thuột,Ngô Xuân Ánh,Hồ Thị Tồn,Phạm Hiên,XI,Chi nhánh II Hồ Vinh,"sanh Nhâm Thân (1932) tại Phụ Ngọc, lập nghiệp tại Buôn ma Thuột, buôn bán, chồng Ngô xuân Ánh sanh Canh Ngọ (1930) tại Nhơn Khánh, tập kết ra Bắc năm 1954, liệt sĩ."
+H00531,H00514,Hồ Thị Tồn,Phạm Thị Lũy,01-01-1934,,,,Phụ Ngọc,Buôn Ma Thuột,Lê Nguyên,Hồ Thị Tồn,Phạm Hiên,XI,Chi nhánh II Hồ Vinh,"Giáp Tuất (1934) tại Phụ Ngọc, lập nghiệp tại Buôn ma Thuột, buôn bán, chống Lê Nguyên sanh Nhâm Thân (1932) tại Nhơn Phong, lập nghiệp tại Buôn ma Thuột, buôn bán,"
+H00532,H00514,Hồ Thị Tồn,Phạm Thị Ngọc Trinh,01-01-1936,,,,Phụ Ngọc,,,Hồ Thị Tồn,Phạm Hiên,XI,Chi nhánh II Hồ Vinh,"binh sĩ VNQLCH đã mất, vợ Trần thị Cảnh sanh Canh Thìn (1940) lập nghiệp tại Buôn ma Thuột, buôn bán"
+H00533,H00514,Hồ Thị Tồn,Phạm Văn Lầu,01-01-1937,,,,Phụ Ngọc,,Trần Thị Cảnh,Hồ Thị Tồn,Phạm Hiên,XI,Chi nhánh II Hồ Vinh,
+H00534,H00514,Hồ Thị Tồn,Phạm Thị Nguyệt,01-01-1940,,,,Phụ Ngọc,,,Hồ Thị Tồn,Phạm Hiên,XI,Chi nhánh II Hồ Vinh,
+H00535,H00514,Hồ Thị Tồn,Phạm Văn Sáu,01-01-1944,,,,Phụ Ngọc,,Nguyễn Thị Nam,Hồ Thị Tồn,Phạm Hiên,XI,Chi nhánh II Hồ Vinh,"Trung úy VNQLCH, vợ Nguyễn thị Nam sanh Mậu Tý (1948) tại Buôn ma Thuột, giáo viên, lập nghiệp tại Buôn ma Thuột"
+H00536,H00514,Hồ Thị Tồn,Phạm Thị Thúy Nga,01-01-1946,,,,Phụ Ngọc,,Lê Văn Kính,Hồ Thị Tồn,Phạm Hiên,XI,Chi nhánh II Hồ Vinh,
+H00537,H00514,Hồ Thị Tồn,Phạm Thị Tám,01-01-1948,,,,Phụ Ngọc,,Lê Văn Bào,Hồ Thị Tồn,Phạm Hiên,XI,Chi nhánh II Hồ Vinh,
+H00538,H00511,Hồ Tấn Liên,Hồ Thị Liễu,01/01/1956,,,,Buôn Ma Thuột,,,Hồ Tấn Liên,Nguyễn Thị Thậm,XII,Chi nhánh II Hồ Vinh,
+H00539,H00511,Hồ Tấn Liên,Hồ Tấn Bửu,01/01/1958,,,,Buôn Ma Thuột,,,Hồ Tấn Liên,Nguyễn Thị Thậm,XII,Chi nhánh II Hồ Vinh,Lái xe
+H00540,H00511,Hồ Tấn Liên,Hồ Thị Mộng Điệp,01/01/1960,,,,Buôn Ma Thuột,,Trần Văn Ân,Hồ Tấn Liên,Nguyễn Thị Thậm,XII,Chi nhánh II Hồ Vinh,"Cao đẳng Sư phạm, giáo viên PTCS"
+H00541,H00511,Hồ Tấn Liên,Hồ Thị Mộng Thu,01/01/1961,,,,Buôn Ma Thuột,,Nguyễn Đức Huy,Hồ Tấn Liên,Nguyễn Thị Thậm,XII,Chi nhánh II Hồ Vinh,"Đại học Ngân hàng, làm việc tại Ngân hàng Công thương Gò Vấp"
+H00542,H00511,Hồ Tấn Liên,Hồ Thị Tường Linh,01/01/1964,,,,Gò Vấp,,,Hồ Tấn Liên,Nguyễn Thị Thậm,XII,Chi nhánh II Hồ Vinh,"Đại học Ngân hàng, làm việc tại Ngân hàng Công thương Gò Vấp"
+H00543,H00522,Hồ Thị Bích Mai,Hoàng Hưng,01/01/1977,,,,Lương Can,,,Hoàng Hà,Hồ Thị Bích Mai,XII,Chi nhánh II Hồ Vinh,
+H00544,H00522,Hồ Thị Bích Mai,Hoàng Huy,01/01/1979,,,,Lương Can,,,Hoàng Hà,Hồ Thị Bích Mai,XII,Chi nhánh II Hồ Vinh,
+H00545,H00522,Hồ Thị Bích Mai,Hoàng Thị Thanh Thúy,01/01/1982,,,,Lương Can,,,Hoàng Hà,Hồ Thị Bích Mai,XII,Chi nhánh II Hồ Vinh,
+H00546,H00522,Hồ Thị Bích Mai,Hoàng Thị Thanh Nga,01/01/1984,,,,Lương Can,,,Hoàng Hà,Hồ Thị Bích Mai,XII,Chi nhánh II Hồ Vinh,
+H00547,H00522,Hồ Thị Bích Mai,Hoàng Hải,01/01/1986,,,,Lương Can,,,Hoàng Hà,Hồ Thị Bích Mai,XII,Chi nhánh II Hồ Vinh,
+H00548,H00522,Hồ Thị Bích Mai,Hoàng Hiền,01/01/1993,,,,Lương Can,,,Hoàng Hà,Hồ Thị Bích Mai,XII,Chi nhánh II Hồ Vinh,
+H00549,H00522,Hồ Thị Bích Mai,Hoàng Thị Phương Thảo,01/01/1996,,,,Lương Can,,,Hoàng Hà,Hồ Thị Bích Mai,XII,Chi nhánh II Hồ Vinh,
+H00550,H00523,Hồ Thị Bích Lan,Ngô Viết Lộc,01/01/1984,,,,Lương Can,,,Lê Viết Lợi,Hồ Thị Bích Lan,XII,Chi nhánh II Hồ Vinh,
+H00551,H00523,Hồ Thị Bích Lan,Ngô Viết Thọ,01/01/1989,,,,Lương Can,,,Lê Viết Lợi,Hồ Thị Bích Lan,XII,Chi nhánh II Hồ Vinh,
+H00552,H00523,Hồ Thị Bích Lan,Ngô Viết Tải,01/01/1991,,,,Lương Can,,,Lê Viết Lợi,Hồ Thị Bích Lan,XII,Chi nhánh II Hồ Vinh,
