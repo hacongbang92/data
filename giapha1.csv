@@ -1,4 +1,4 @@
-id,parentId,ID_TenChaMe,name,Nam_sinh,Gioi_tinh,position,Ngay_Mat,Noi_sinh,Noi_mat,Ten_Vo/Chong,Ten_Cha,Ten_Me,Doi_Thu,Nhanh,Ghi_chu
+id,parentId,ID_TenChaMe,name,position,Gioi_tinh,Ngay_Sinh,Ngay_Mat,Noi_sinh,Noi_mat,Ten_Vo/Chong,Ten_Cha,Ten_Me,Doi_Thu,Nhanh,Ghi_chu
 H00001,H00299,Hồ Văn Thừa,Hồ Ngọc Anh,1898,Nam,,23/11/1970,"Nghĩa lộ, Tư nghĩa, Quảng ngãi",Gò Chàm,Nguyễn Thị Chín,Hồ Văn Thừa,,IX,Chi nhánh III Hồ Ngọc Anh,"Xã trưởng Nhơn Phúc thời Ngô Đình Diệm, điền chủ"
 H00002,H00001,Hồ Ngọc Anh,Vô Danh,,,,,Nhơn Phúc,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,Chi nhánh III Hồ Ngọc Anh,Ngày kỵ 10/11
 H00003,H00001,Hồ Ngọc Anh,Hồ Ngọc Diêu,,,,,Nhơn Phúc,,,Hồ Ngọc Anh,Nguyễn Thị Chín,X,Chi nhánh III Hồ Ngọc Anh,
